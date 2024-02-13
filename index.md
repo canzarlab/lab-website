@@ -1,9 +1,9 @@
 ---
 ---
 
-# canzarlab's Website
+# Canzar Lab
 
-An engaging 1-3 sentence description of your lab.
+Next-generation sequencing instruments produce a huge number of short DNA 'reads', each of which carries little information by itself. These reads therefore have to be pieced together by well-engineered algorithms to reconstruct biologically meaningful measurements. The lab's goal is the development of accurate mathematical models, efficient algorithms, and usable software to solve these complex, high-dimensional puzzles. 
 
 {% include section.html %}
 
