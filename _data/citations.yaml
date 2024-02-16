@@ -245,3 +245,27 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41590-022-01268-1
+  title: The function of Wtap in N6-adenosine methylation of mRNAs controls T cell
+    receptor signaling and survival of T cells
+  authors:
+  - Taku Ito-Kureha
+  - Cristina Leoni
+  - Kayla Borland
+  - Giulia Cantini
+  - Marian Bataclan
+  - Rebecca N. Metzger
+  - Gregor Ammann
+  - Anne B. Krug
+  - Annalisa Marsico
+  - Stefanie Kaiser
+  - Stefan Canzar
+  - Stefan Feske
+  - Silvia Monticelli
+  - "Julian K\xF6nig"
+  - Vigo Heissmeyer
+  publisher: Nature Immunology
+  date: '2022-07-25'
+  link: https://doi.org/gqj7wx
+  plugin: sources.py
+  file: sources.yaml
