@@ -1,5 +1,250 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.12.20.572612
+  title: Combinatorial microRNA activity is essential for the transition of pluripotent
+    cells from proliferation into dormancy
+  authors:
+  - Dhanur P. Iyer
+  - Lambert Moyon
+  - Francisca R. Ringeling
+  - Chieh-Yu Cheng
+  - Lars Wittler
+  - Stefan Canzar
+  - Annalisa Marsico
+  - Aydan Bulut-Karslioglu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-21'
+  link: https://doi.org/gtht39
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btad419
+  title: Counting pseudoalignments to novel splicing events
+  authors:
+  - Luka Borozan
+  - Francisca Rojas Ringeling
+  - Shao-Yen Kao
+  - Elena Nikonova
+  - Pablo Monteagudo-Mesas
+  - "Domagoj Matijevi\u0107"
+  - Maria L Spletter
+  - Stefan Canzar
+  publisher: Bioinformatics
+  date: '2023-07-01'
+  link: https://doi.org/gtht4b
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkac403
+  title: "Ccr4\u2013Not complex reduces transcription efficiency in heterochromatin"
+  authors:
+  - Pablo Monteagudo-Mesas
+  - "Cornelia Br\xF6nner"
+  - Parastou Kohvaei
+  - Haris Amedi
+  - Stefan Canzar
+  - Mario Halic
+  publisher: Nucleic Acids Research
+  date: '2022-05-30'
+  link: https://doi.org/gsx5wq
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-021-02356-5
+  title: A generalization of t-SNE and UMAP to single-cell multimodal omics
+  authors:
+  - Van Hoan Do
+  - Stefan Canzar
+  publisher: Genome Biology
+  date: '2021-05-03'
+  link: https://doi.org/gk5tbc
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.08.08.455218
+  title: Ccr4-Not complex reduces transcription efficiency in heterochromatin
+  authors:
+  - Pablo Monteagudo
+  - "Cornelia Br\xF6nner"
+  - Parastou Kohvaei
+  - Haris Amedi
+  - Stefan Canzar
+  - Mario Halic
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-08'
+  link: https://doi.org/gtht4c
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btab050
+  title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq
+    data'
+  authors:
+  - Israa Alqassem
+  - Yash Sonthalia
+  - Erika Klitzke-Feser
+  - Heejung Shim
+  - Stefan Canzar
+  publisher: Bioinformatics
+  date: '2021-01-30'
+  link: https://doi.org/gqbqqc
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.24.449725
+  title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural
+    Networks
+  authors:
+  - Stefan Canzar
+  - Van Hoan Do
+  - "Slobodan Jeli\u0107"
+  - "S\xF6ren Laue"
+  - "Domagoj Matijevi\u0107"
+  - Tomislav Prusina
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-25'
+  link: https://doi.org/gtht4d
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.267906.120
+  title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
+    data
+  authors:
+  - Van Hoan Do
+  - Francisca Rojas Ringeling
+  - Stefan Canzar
+  publisher: Genome Research
+  date: '2021-02-24'
+  link: https://doi.org/gtht4f
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.10.426098
+  title: A generalization of t-SNE and UMAP to single-cell multimodal omics
+  authors:
+  - Van Hoan Do
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-10'
+  link: https://doi.org/gtht4g
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41375-020-0793-1
+  title: Leukemia-induced dysfunctional TIM-3+CD4+ bone marrow T cells increase risk
+    of relapse in pediatric B-precursor ALL patients
+  authors:
+  - Franziska Blaeschke
+  - Semjon Willier
+  - Dana Stenger
+  - Mareike Lepenies
+  - Martin A. Horstmann
+  - Gabriele Escherich
+  - Martin Zimmermann
+  - Francisca Rojas Ringeling
+  - Stefan Canzar
+  - Theresa Kaeuferle
+  - Meino Rohlfs
+  - Vera Binder
+  - Christoph Klein
+  - Tobias Feuchtinger
+  publisher: Leukemia
+  date: '2020-03-13'
+  link: https://doi.org/gh7jt8
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.10.243097
+  title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq
+    data'
+  authors:
+  - Israa Alqassem
+  - Yash Sonthalia
+  - Erika Klitzke-Feser
+  - Heejung Shim
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-11'
+  link: https://doi.org/gtht4h
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.06.15.151910
+  title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
+    data
+  authors:
+  - Van Hoan Do
+  - Francisca Rojas Ringeling
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-06-15'
+  link: https://doi.org/gtht4j
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2020.101126
+  title: 'Sphetcher: Spherical Thresholding Improves Sketching of Single-Cell Transcriptomic
+    Heterogeneity'
+  authors:
+  - Van Hoan Do
+  - Khaled Elbassioni
+  - Stefan Canzar
+  publisher: iScience
+  date: '2020-06-01'
+  link: https://doi.org/gtht4k
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.01.31.926345
+  title: 'BiCoN: Network-constrained biclustering of patients and omics data'
+  authors:
+  - Olga Lazareva
+  - Hoan Van Do
+  - Stefan Canzar
+  - Kevin Yuan
+  - Jan Baumbach
+  - David B. Blumenthal
+  - Paolo Tieri
+  - Tim Kacprowski
+  - Markus List
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-03'
+  link: https://doi.org/gkv8bb
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/522672
+  title: Dynamic pseudo-time warping of complex single-cell trajectories
+  authors:
+  - Van Hoan Do
+  - "Mislav Bla\u017Eevi\u0107"
+  - Pablo Monteagudo
+  - Luka Borozan
+  - Khaled Elbassioni
+  - "S\xF6ren Laue"
+  - Francisca Rojas Ringeling
+  - "Domagoj Matijevi\u0107"
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-01-17'
+  link: https://doi.org/gkv5bg
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-89929-9_2
+  title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
+  authors:
+  - Shounak Chakraborty
+  - Stefan Canzar
+  - Tobias Marschall
+  - Marcel H. Schulz
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gtht4m
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41590-022-01268-1
   title: The function of Wtap in N6-adenosine methylation of mRNAs controls T cell
     receptor signaling and survival of T cells
