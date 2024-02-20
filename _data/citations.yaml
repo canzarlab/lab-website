@@ -304,3 +304,41 @@
   link: https://doi.org/gth95r
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.23919/MIPRO57284.2023.10159716
+  title: Fortuna Detects Novel Splicing in Drosophila scRNASeq Data
+  authors:
+  - B. Borozan
+  - L. Borozan
+  - "D. \u0160everdija"
+  - "D. Matijevi\u0107"
+  - S. Canzar
+  publisher: 2023 46th MIPRO ICT and Electronics Convention (MIPRO)
+  date: '2023-05-22'
+  link: https://doi.org/gth95s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-021-01136-7
+  title: Partitioning RNAs by length improves transcriptome reconstruction from short-read
+    RNA-seq data
+  authors:
+  - Francisca Rojas Ringeling
+  - Shounak Chakraborty
+  - Caroline Vissers
+  - Derek Reiman
+  - Akshay M. Patel
+  - Ki-Heon Lee
+  - Ari Hong
+  - Chan-Woo Park
+  - Tim Reska
+  - Julien Gagneur
+  - Hyeshik Chang
+  - Maria L. Spletter
+  - Ki-Jun Yoon
+  - Guo-li Ming
+  - Hongjun Song
+  - Stefan Canzar
+  publisher: Nature Biotechnology
+  date: '2022-01-10'
+  link: https://doi.org/gth95t
+  plugin: sources.py
+  file: sources.yaml
