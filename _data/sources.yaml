@@ -22,4 +22,11 @@
 #- id: doi:10.7554/eLife.32822
 #  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
+# The function of Wtap
 - id: doi:10.1038/s41590-022-01268-1
+
+# Correcting PCR amplification
+- id: doi:10.1038/s41592-024-02168-y
+
+# Anti Tai mapping
+- id: doi:10.1016/j.ipl.2023.106454
