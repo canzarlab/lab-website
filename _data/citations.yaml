@@ -208,6 +208,27 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/cti2.1372
+  title: "Genome\u2010wide off\u2010target analyses of CRISPR/Cas9\u2010mediated T\u2010\
+    cell receptor engineering in primary human T cells"
+  authors:
+  - Theresa Kaeuferle
+  - Tanja A Stief
+  - Stefan Canzar
+  - Nayad N Kutlu
+  - Semjon Willier
+  - Dana Stenger
+  - "Paulina Ferrada\u2010Ernst"
+  - Nicola Habjan
+  - Annika E Peters
+  - Dirk H Busch
+  - Tobias Feuchtinger
+  publisher: Clinical &amp; Translational Immunology
+  date: '2022-01-01'
+  link: https://doi.org/gtjbgd
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-021-02356-5
   title: A generalization of t-SNE and UMAP to single-cell multimodal omics
   authors:
@@ -289,6 +310,23 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa1076
+  title: 'BiCoN: network-constrained biclustering of patients and omics data'
+  authors:
+  - Olga Lazareva
+  - Stefan Canzar
+  - Kevin Yuan
+  - Jan Baumbach
+  - David B Blumenthal
+  - Paolo Tieri
+  - Tim Kacprowski
+  - Markus List
+  publisher: Bioinformatics
+  date: '2020-12-26'
+  link: https://doi.org/gtjbgf
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41375-020-0793-1
   title: Leukemia-induced dysfunctional TIM-3+CD4+ bone marrow T cells increase risk
     of relapse in pediatric B-precursor ALL patients
@@ -325,6 +363,32 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-08-11'
   link: https://doi.org/gtht4h
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1261/rna.076026.120
+  title: Validation strategies for antibodies targeting modified ribonucleotides
+  authors:
+  - Franziska Weichmann
+  - Robert Hett
+  - Aloys Schepers
+  - Taku Ito-Kureha
+  - Andrew Flatley
+  - Kaouthar Slama
+  - Florian D. Hastert
+  - Nicholas B. Angstman
+  - M. Cristina Cardoso
+  - "Julian K\xF6nig"
+  - "Stefan H\xFCttelmaier"
+  - Christoph Dieterich
+  - Stefan Canzar
+  - Mark Helm
+  - Vigo Heissmeyer
+  - Regina Feederle
+  - Gunter Meister
+  publisher: RNA
+  date: '2020-07-07'
+  link: https://doi.org/gtjbgg
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -388,6 +452,19 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1089/cmb.2019.0457
+  title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
+  authors:
+  - Shounak Chakraborty
+  - Stefan Canzar
+  - Tobias Marschall
+  - Marcel H. Schulz
+  publisher: Journal of Computational Biology
+  date: '2020-03-01'
+  link: https://doi.org/gtjbgh
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.01.31.926345
   title: 'BiCoN: Network-constrained biclustering of patients and omics data'
   authors:
@@ -438,6 +515,26 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/bib/bby047
+  title: Exploring the functional impact of alternative splicing on human protein
+    isoforms using available annotation sources
+  authors:
+  - Dinanath Sulakhe
+  - "Mark D\u2019Souza"
+  - Sheng Wang
+  - Sandhya Balasubramanian
+  - Prashanth Athri
+  - Bingqing Xie
+  - Stefan Canzar
+  - Gady Agam
+  - T Conrad Gilliam
+  - Natalia Maltsev
+  publisher: Briefings in Bioinformatics
+  date: '2019-06-03'
+  link: https://doi.org/gdrhwm
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.23919/mipro.2019.8756638
   title: Properties of the generalized Robinson-Foulds metric
   authors:
@@ -448,6 +545,55 @@
     Electronics and Microelectronics (MIPRO)
   date: '2019-05-01'
   link: https://doi.org/gtjbc5
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2019.02.010
+  title: A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis
+  authors:
+  - Daniel A. Berg
+  - Yijing Su
+  - Dennisse Jimenez-Cyrus
+  - Aneek Patel
+  - Nancy Huang
+  - David Morizet
+  - Stephanie Lee
+  - Reeti Shah
+  - Francisca Rojas Ringeling
+  - Rajan Jain
+  - Jonathan A. Epstein
+  - Qing-Feng Wu
+  - Stefan Canzar
+  - Guo-Li Ming
+  - Hongjun Song
+  - Allison M. Bond
+  publisher: Cell
+  date: '2019-04-01'
+  link: https://doi.org/gfxkjh
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/mcp.ra118.001141
+  title: Proteome Analysis of Human Neutrophil Granulocytes From Patients With Monogenic
+    Disease Using Data-independent Acquisition
+  authors:
+  - Piotr Grabowski
+  - Sebastian Hesse
+  - Sebastian Hollizeck
+  - Meino Rohlfs
+  - Uta Behrends
+  - Roya Sherkat
+  - Hannah Tamary
+  - "Ekrem \xDCnal"
+  - Raz Somech
+  - "T\xFCrkan Pat\u0131ro\u011Flu"
+  - Stefan Canzar
+  - Jutte van der Werff Ten Bosch
+  - Christoph Klein
+  - Juri Rappsilber
+  publisher: Molecular &amp; Cellular Proteomics
+  date: '2019-04-01'
+  link: https://doi.org/gnq73z
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -466,6 +612,36 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-01-17'
   link: https://doi.org/gkv5bg
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-8808-2_15
+  title: Guided Reconstruction of Full-Length Isoforms from Short Reads by CIDANE
+  authors:
+  - Sandro Andreotti
+  - Stefan Canzar
+  publisher: Epitranscriptomics
+  date: '2018-12-12'
+  link: https://doi.org/gtjbgj
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-07642-8
+  title: Genome wide association analysis in a mouse advanced intercross line
+  authors:
+  - Natalia M. Gonzales
+  - Jungkyun Seo
+  - Ana I. Hernandez Cordero
+  - Celine L. St. Pierre
+  - Jennifer S. Gregory
+  - Margaret G. Distler
+  - Mark Abney
+  - Stefan Canzar
+  - Arimantas Lionikas
+  - Abraham A. Palmer
+  publisher: Nature Communications
+  date: '2018-12-04'
+  link: https://doi.org/gtjbgk
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -506,6 +682,35 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cell.2017.09.003
+  title: Temporal Control of Mammalian Cortical Neurogenesis by m6A Methylation
+  authors:
+  - Ki-Jun Yoon
+  - Francisca Rojas Ringeling
+  - Caroline Vissers
+  - Fadi Jacob
+  - Michael Pokrass
+  - Dennisse Jimenez-Cyrus
+  - Yijing Su
+  - Nam-Shik Kim
+  - Yunhua Zhu
+  - Lily Zheng
+  - Sunghan Kim
+  - Xinyuan Wang
+  - "Louis C. Dor\xE9"
+  - Peng Jin
+  - Sergi Regot
+  - Xiaoxi Zhuang
+  - Stefan Canzar
+  - Chuan He
+  - Guo-li Ming
+  - Hongjun Song
+  publisher: Cell
+  date: '2017-11-01'
+  link: https://doi.org/gcj6jh
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/jproc.2015.2455551
   title: 'Short Read Mapping: An Algorithmic Tour'
   authors:
@@ -514,6 +719,32 @@
   publisher: Proceedings of the IEEE
   date: '2017-03-01'
   link: https://doi.org/f9z7gr
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.208041.116
+  title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
+  authors:
+  - Zheng Kuang
+  - Jef D. Boeke
+  - Stefan Canzar
+  publisher: Genome Research
+  date: '2016-11-17'
+  link: https://doi.org/gprddj
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btw631
+  title: 'BASIC: BCR assembly from single cells'
+  authors:
+  - Stefan Canzar
+  - Karlynn E Neu
+  - Qingming Tang
+  - Patrick C Wilson
+  - Aly A Khan
+  publisher: Bioinformatics
+  date: '2016-10-02'
+  link: https://doi.org/gtjbgm
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -570,6 +801,48 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1089/cmb.2013.0057
+  title: 'The Duplication-Loss Small Phylogeny Problem: From Cherries to Trees'
+  authors:
+  - Sandro Andreotti
+  - Knut Reinert
+  - Stefan Canzar
+  publisher: Journal of Computational Biology
+  date: '2013-09-01'
+  link: https://doi.org/f489j7
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2444016.2493372
+  title: A polynomial-delay algorithm for enumerating approximate solutions to the
+    interval constrained coloring problem
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - "Juli\xE1n Mestre"
+  publisher: ACM Journal of Experimental Algorithmics
+  date: '2013-07-30'
+  link: https://doi.org/gtjbgn
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btt273
+  title: 'GAGE-B: an evaluation of genome assemblers for bacterial organisms'
+  authors:
+  - Tanja Magoc
+  - Stephan Pabinger
+  - Stefan Canzar
+  - Xinyue Liu
+  - Qi Su
+  - Daniela Puiu
+  - Luke J. Tallon
+  - Steven L. Salzberg
+  publisher: Bioinformatics
+  date: '2013-05-10'
+  link: https://doi.org/f437hn
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00453-013-9785-0
   title: On Tree-Constrained Matchings and Generalizations
   authors:
@@ -580,6 +853,24 @@
   publisher: Algorithmica
   date: '2013-04-24'
   link: https://doi.org/gtjbc9
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/cmb.2012.0239
+  title: Charge Group Partitioning in Biomolecular Simulation
+  authors:
+  - Stefan Canzar
+  - Mohammed El-Kebir
+  - "Ren\xE9 Pool"
+  - Khaled Elbassioni
+  - Alpeshkumar K. Malde
+  - Alan E. Mark
+  - Daan P. Geerke
+  - Leen Stougie
+  - Gunnar W. Klau
+  publisher: Journal of Computational Biology
+  date: '2013-03-01'
+  link: https://doi.org/gfzvjf
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -625,6 +916,24 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/978-3-642-29627-7_3
+  title: Charge Group Partitioning in Biomolecular Simulation
+  authors:
+  - Stefan Canzar
+  - Mohammed El-Kebir
+  - "Ren\xE9 Pool"
+  - Khaled Elbassioni
+  - Alpesh K. Malde
+  - Alan E. Mark
+  - Daan P. Geerke
+  - Leen Stougie
+  - Gunnar W. Klau
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/gtjbgp
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11590-011-0308-0
   title: An exact algorithm for side-chain placement in protein design
   authors:
@@ -634,6 +943,49 @@
   publisher: Optimization Letters
   date: '2011-03-25'
   link: https://doi.org/bvm9kz
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-23038-7_3
+  title: A Mathematical Programming Approach to Marker-Assisted Gene Pyramiding
+  authors:
+  - Stefan Canzar
+  - Mohammed El-Kebir
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/fkbcp9
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-22006-7_9
+  title: On Tree-Constrained Matchings and Generalizations
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Gunnar W. Klau
+  - "Juli\xE1n Mestre"
+  publisher: Automata, Languages and Programming
+  date: '2011-01-01'
+  link: https://doi.org/d4ctph
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-11-424
+  title: Computing H/D-Exchange rates of single residues from data of proteolytic
+    fragments
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  - Carsten Ehrler
+  - Mark R Emmett
+  - Andreas Karrenbauer
+  - Alan G Marshall
+  - "Anke Meyer-B\xE4se"
+  - Jeremiah D Tipton
+  - Hui-Min Zhang
+  publisher: BMC Bioinformatics
+  date: '2010-08-11'
+  link: https://doi.org/dcnpd2
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -648,6 +1000,49 @@
   publisher: Algorithmica
   date: '2010-04-15'
   link: https://doi.org/df4r2b
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1137/1.9781611972900.3
+  title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the
+    Interval Constrained Coloring Problem
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - "Juli\xE1n Mestre"
+  publisher: 2010 Proceedings of the Twelfth Workshop on Algorithm Engineering and
+    Experiments (ALENEX)
+  date: '2010-01-16'
+  link: https://doi.org/gtjbgq
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-17514-5_15
+  title: On the Approximability of the Maximum Interval Constrained Coloring Problem
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Amr Elmasry
+  - Rajiv Raman
+  publisher: Algorithms and Computation
+  date: '2010-01-01'
+  link: https://doi.org/c33jzb
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1363686.1363981
+  title: Computing H/D-exchange speeds of single residues from data of peptic fragments
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  - Mark R. Emmett
+  - Andreas Karrenbauer
+  - Alan G. Marshall
+  - Anke Meyer-Baese
+  - Huimin Zhang
+  publisher: Proceedings of the 2008 ACM symposium on Applied computing
+  date: '2008-03-16'
+  link: https://doi.org/fmxskk
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -687,6 +1082,20 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/017939
+  title: 'CIDANE: Comprehensive isoform discovery and abundance estimation'
+  authors:
+  - Stefan Canzar
+  - Sandro Andreotti
+  - David Weese
+  - Knut Reinert
+  - Gunnar W. Klau
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-04-12'
+  link: https://doi.org/gkvxxb
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-540-70600-7_38
   title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
   authors:
@@ -695,6 +1104,18 @@
   publisher: Communications in Computer and Information Science
   date: ''
   link: https://doi.org/c2znr5
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/045922
+  title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
+  authors:
+  - Zheng Kuang
+  - Jef D. Boeke
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2016-03-29'
+  link: https://doi.org/gkvmr2
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
