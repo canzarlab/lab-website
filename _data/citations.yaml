@@ -1,5 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.ipl.2023.106454
+  title: Anti Tai mapping for unordered labeled trees
+  authors:
+  - "Mislav Bla\u017Eevi\u0107"
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - "Domagoj Matijevi\u0107"
+  publisher: Information Processing Letters
+  date: '2024-03-01'
+  link: https://doi.org/gth95r
+  orcid: 0000-0003-4719-8010
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-024-02168-y
+  title: Correcting PCR amplification errors in unique molecular identifiers to generate
+    accurate numbers of sequencing molecules
+  authors:
+  - Jianfeng Sun
+  - Martin Philpott
+  - Danson Loi
+  - Shuang Li
+  - Pablo Monteagudo-Mesas
+  - Gabriela Hoffman
+  - Jonathan Robson
+  - Neelam Mehta
+  - Vicki Gamble
+  - Tom Brown
+  - Tom Brown
+  - Stefan Canzar
+  - Udo Oppermann
+  - Adam P. Cribbs
+  publisher: Nature Methods
+  date: '2024-02-05'
+  link: https://doi.org/gth95q
+  orcid: 0000-0003-4719-8010
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.12.20.572612
   title: Combinatorial microRNA activity is essential for the transition of pluripotent
     cells from proliferation into dormancy
@@ -15,6 +52,19 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-12-21'
   link: https://doi.org/gtht39
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/kse59128.2023.10299517
+  title: Identifying Cell Types in Single-Cell Multimodal Omics Data via Joint Embedding
+    Learning
+  authors:
+  - Van Hoan Do
+  - Stefan Canzar
+  publisher: 2023 15th International Conference on Knowledge and Systems Engineering
+    (KSE)
+  date: '2023-10-18'
+  link: https://doi.org/gtjbcz
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -35,6 +85,73 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.23919/mipro57284.2023.10159716
+  title: Fortuna Detects Novel Splicing in Drosophila scRNASeq Data
+  authors:
+  - B. Borozan
+  - L. Borozan
+  - "D. \u0160everdija"
+  - "D. Matijevi\u0107"
+  - S. Canzar
+  publisher: 2023 46th MIPRO ICT and Electronics Convention (MIPRO)
+  date: '2023-05-22'
+  link: https://doi.org/gth95s
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsych.2021.04.023
+  title: CYFIP1 Dosages Exhibit Divergent Behavioral Impact via Diametric Regulation
+    of NMDA Receptor Complex Translation in Mouse Models of Psychiatric Disorders
+  authors:
+  - Nam-Shik Kim
+  - Francisca Rojas Ringeling
+  - Ying Zhou
+  - Ha Nam Nguyen
+  - Stephanie J. Temme
+  - Yu-Ting Lin
+  - Stephen Eacker
+  - Valina L. Dawson
+  - Ted M. Dawson
+  - Bo Xiao
+  - Kuei-sen Hsu
+  - Stefan Canzar
+  - Weidong Li
+  - Paul Worley
+  - Kimberly M. Christian
+  - Ki-Jun Yoon
+  - Hongjun Song
+  - Guo-li Ming
+  publisher: Biological Psychiatry
+  date: '2022-11-01'
+  link: https://doi.org/gtjbc2
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41590-022-01268-1
+  title: The function of Wtap in N6-adenosine methylation of mRNAs controls T cell
+    receptor signaling and survival of T cells
+  authors:
+  - Taku Ito-Kureha
+  - Cristina Leoni
+  - Kayla Borland
+  - Giulia Cantini
+  - Marian Bataclan
+  - Rebecca N. Metzger
+  - Gregor Ammann
+  - Anne B. Krug
+  - Annalisa Marsico
+  - Stefanie Kaiser
+  - Stefan Canzar
+  - Stefan Feske
+  - Silvia Monticelli
+  - "Julian K\xF6nig"
+  - Vigo Heissmeyer
+  publisher: Nature Immunology
+  date: '2022-07-25'
+  link: https://doi.org/gqj7wx
+  orcid: 0000-0003-4719-8010
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkac403
   title: "Ccr4\u2013Not complex reduces transcription efficiency in heterochromatin"
   authors:
@@ -50,6 +167,47 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.23919/mipro55190.2022.9803685
+  title: Predicting RNA splicing branchpoints
+  authors:
+  - Antonio Jovanovic
+  - Israa Alqassem
+  - Nathan Chappell
+  - Stefan Canzar
+  - Domagoj Matijevic
+  publisher: 2022 45th Jubilee International Convention on Information, Communication
+    and Electronic Technology (MIPRO)
+  date: '2022-05-23'
+  link: https://doi.org/gtjbc3
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41587-021-01136-7
+  title: Partitioning RNAs by length improves transcriptome reconstruction from short-read
+    RNA-seq data
+  authors:
+  - Francisca Rojas Ringeling
+  - Shounak Chakraborty
+  - Caroline Vissers
+  - Derek Reiman
+  - Akshay M. Patel
+  - Ki-Heon Lee
+  - Ari Hong
+  - Chan-Woo Park
+  - Tim Reska
+  - Julien Gagneur
+  - Hyeshik Chang
+  - Maria L. Spletter
+  - Ki-Jun Yoon
+  - Guo-li Ming
+  - Hongjun Song
+  - Stefan Canzar
+  publisher: Nature Biotechnology
+  date: '2022-01-10'
+  link: https://doi.org/gth95t
+  orcid: 0000-0003-4719-8010
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13059-021-02356-5
   title: A generalization of t-SNE and UMAP to single-cell multimodal omics
   authors:
@@ -196,6 +354,40 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41375-020-0839-4
+  title: Clinical presentation and differential splicing of SRSF2, U2AF1 and SF3B1
+    mutations in patients with acute myeloid leukemia
+  authors:
+  - Stefanos A. Bamopoulos
+  - Aarif M. N. Batcha
+  - Vindi Jurinovic
+  - Maja Rothenberg-Thurley
+  - Hanna Janke
+  - Bianka Ksienzyk
+  - Julia Philippou-Massier
+  - Alexander Graf
+  - Stefan Krebs
+  - Helmut Blum
+  - Stephanie Schneider
+  - Nikola Konstandin
+  - Maria Cristina Sauerland
+  - "Dennis G\xF6rlich"
+  - Wolfgang E. Berdel
+  - Bernhard J. Woermann
+  - Stefan K. Bohlander
+  - Stefan Canzar
+  - Ulrich Mansmann
+  - Wolfgang Hiddemann
+  - Jan Braess
+  - Karsten Spiekermann
+  - Klaus H. Metzeler
+  - Tobias Herold
+  publisher: Leukemia
+  date: '2020-05-01'
+  link: https://doi.org/gr9r9n
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.01.31.926345
   title: 'BiCoN: Network-constrained biclustering of patients and omics data'
   authors:
@@ -211,6 +403,51 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-02-03'
   link: https://doi.org/gkv8bb
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-9873-9
+  title: Protein-Protein Interaction Networks
+  authors: []
+  publisher: Methods in Molecular Biology
+  date: '2020-01-01'
+  link: https://doi.org/gtjbc4
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-11076-1
+  title: Alternative splicing regulates stochastic NLRP3 activity
+  authors:
+  - Florian Hoss
+  - James L. Mueller
+  - Francisca Rojas Ringeling
+  - Juan F. Rodriguez-Alcazar
+  - Rebecca Brinkschulte
+  - Gerald Seifert
+  - Rainer Stahl
+  - Lori Broderick
+  - Chris D. Putnam
+  - Richard D. Kolodner
+  - Stefan Canzar
+  - Matthias Geyer
+  - Hal M. Hoffman
+  - Eicke Latz
+  publisher: Nature Communications
+  date: '2019-07-19'
+  link: https://doi.org/ghdsjf
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/mipro.2019.8756638
+  title: Properties of the generalized Robinson-Foulds metric
+  authors:
+  - L. Borozan
+  - D. Matijevic
+  - S. Canzar
+  publisher: 2019 42nd International Convention on Information and Communication Technology,
+    Electronics and Microelectronics (MIPRO)
+  date: '2019-05-01'
+  link: https://doi.org/gtjbc5
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -232,6 +469,19 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.disopt.2017.09.002
+  title: On the approximability of the maximum interval constrained coloring problem
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Amr Elmasry
+  - Rajiv Raman
+  publisher: Discrete Optimization
+  date: '2018-02-01'
+  link: https://doi.org/gdb75x
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-319-89929-9_2
   title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
   authors:
@@ -245,65 +495,209 @@
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41590-022-01268-1
-  title: The function of Wtap in N6-adenosine methylation of mRNAs controls T cell
-    receptor signaling and survival of T cells
+- id: doi:10.1007/978-1-4939-7710-9_5
+  title: Tracking Alternatively Spliced Isoforms from Long Reads by SpliceHunter
   authors:
-  - Taku Ito-Kureha
-  - Cristina Leoni
-  - Kayla Borland
-  - Giulia Cantini
-  - Marian Bataclan
-  - Rebecca N. Metzger
-  - Gregor Ammann
-  - Anne B. Krug
-  - Annalisa Marsico
-  - Stefanie Kaiser
+  - Zheng Kuang
   - Stefan Canzar
-  - Stefan Feske
-  - Silvia Monticelli
-  - "Julian K\xF6nig"
-  - Vigo Heissmeyer
-  publisher: Nature Immunology
-  date: '2022-07-25'
-  link: https://doi.org/gqj7wx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41592-024-02168-y
-  title: Correcting PCR amplification errors in unique molecular identifiers to generate
-    accurate numbers of sequencing molecules
+  publisher: Methods in Molecular Biology
+  date: '2018-01-01'
+  link: https://doi.org/gtjbc6
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/jproc.2015.2455551
+  title: 'Short Read Mapping: An Algorithmic Tour'
   authors:
-  - Jianfeng Sun
-  - Martin Philpott
-  - Danson Loi
-  - Shuang Li
-  - Pablo Monteagudo-Mesas
-  - Gabriela Hoffman
-  - Jonathan Robson
-  - Neelam Mehta
-  - Vicki Gamble
-  - Tom Brown
-  - Tom Brown
   - Stefan Canzar
-  - Udo Oppermann
-  - Adam P. Cribbs
-  publisher: Nature Methods
-  date: '2024-02-05'
-  link: https://doi.org/gth95q
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ipl.2023.106454
-  title: Anti Tai mapping for unordered labeled trees
+  - Steven L. Salzberg
+  publisher: Proceedings of the IEEE
+  date: '2017-03-01'
+  link: https://doi.org/f9z7gr
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btw447
+  title: "ModuleAlign: module-based global alignment of protein\u2013protein interaction\
+    \ networks"
   authors:
-  - "Mislav Bla\u017Eevi\u0107"
+  - Somaye Hashemifar
+  - Jianzhu Ma
+  - Hammad Naveed
+  - Stefan Canzar
+  - Jinbo Xu
+  publisher: Bioinformatics
+  date: '2016-08-29'
+  link: https://doi.org/gtjbc7
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9781119272182.ch11
+  title: "Computational Methods for Transcript Assembly from RNA\u2010SEQ Reads"
+  authors:
+  - Stefan Canzar
+  - Liliana Florea
+  publisher: Computational Methods for Next Generation Sequencing Data Analysis
+  date: '2016-08-26'
+  link: https://doi.org/gtjbc8
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/cmb.2015.0164
+  title: Resolving Conflicting Predictions from Multimapping Reads
+  authors:
   - Stefan Canzar
   - Khaled Elbassioni
-  - "Domagoj Matijevi\u0107"
-  publisher: Information Processing Letters
-  date: '2024-03-01'
-  link: https://doi.org/gth95r
-  plugin: sources.py
-  file: sources.yaml
+  - Mitchell Jones
+  - "Juli\xE1n Mestre"
+  publisher: Journal of Computational Biology
+  date: '2016-03-01'
+  link: https://doi.org/f8dfwv
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-015-0865-0
+  title: 'CIDANE: comprehensive isoform discovery and abundance estimation'
+  authors:
+  - Stefan Canzar
+  - Sandro Andreotti
+  - David Weese
+  - Knut Reinert
+  - Gunnar W. Klau
+  publisher: Genome Biology
+  date: '2016-01-30'
+  link: https://doi.org/gm3fx7
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00453-013-9785-0
+  title: On Tree-Constrained Matchings and Generalizations
+  authors:
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Gunnar W. Klau
+  - "Juli\xE1n Mestre"
+  publisher: Algorithmica
+  date: '2013-04-24'
+  link: https://doi.org/gtjbc9
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-40453-5_13
+  title: The Generalized Robinson-Foulds Metric
+  authors:
+  - "Sebastian B\xF6cker"
+  - Stefan Canzar
+  - Gunnar W. Klau
+  publisher: Lecture Notes in Computer Science
+  date: '2013-01-01'
+  link: https://doi.org/gtjbdb
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/bts566
+  title: 'CLEVER: clique-enumerating variant finder'
+  authors:
+  - Tobias Marschall
+  - Ivan G. Costa
+  - Stefan Canzar
+  - Markus Bauer
+  - Gunnar W. Klau
+  - Alexander Schliep
+  - "Alexander Sch\xF6nhuth"
+  publisher: Bioinformatics
+  date: '2012-10-11'
+  link: https://doi.org/f4fsj9
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1137/1.9781611972924.8
+  title: Solving the Minimum String Cover Problem
+  authors:
+  - Stefan Canzar
+  - Tobias Marschall
+  - Sven Rahmann
+  - Chris Schwiegelshohn
+  publisher: 2012 Proceedings of the Fourteenth Workshop on Algorithm Engineering
+    and Experiments (ALENEX)
+  date: '2012-01-16'
+  link: https://doi.org/gtjbdc
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11590-011-0308-0
+  title: An exact algorithm for side-chain placement in protein design
+  authors:
+  - Stefan Canzar
+  - Nora C. Toussaint
+  - Gunnar W. Klau
+  publisher: Optimization Letters
+  date: '2011-03-25'
+  link: https://doi.org/bvm9kz
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00453-010-9406-0
+  title: Approximation Algorithms for the Interval Constrained Coloring Problem
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Andreas Karrenbauer
+  - "Juli\xE1n Mestre"
+  publisher: Algorithmica
+  date: '2010-04-15'
+  link: https://doi.org/df4r2b
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10878-008-9139-z
+  title: A Lagrangian relaxation approach for the multiple sequence alignment problem
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  publisher: Journal of Combinatorial Optimization
+  date: '2008-03-05'
+  link: https://doi.org/c7wr7z
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-73556-4_29
+  title: A Lagrangian Relaxation Approach for the Multiple Sequence Alignment Problem
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  publisher: Combinatorial Optimization and Applications
+  date: ''
+  link: https://doi.org/fgprxk
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-69903-3_20
+  title: Approximating the Interval Constrained Coloring Problem
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  - Khaled Elbassioni
+  - Andreas Karrenbauer
+  - "Juli\xE1n Mestre"
+  publisher: "Algorithm Theory \u2013 SWAT 2008"
+  date: ''
+  link: https://doi.org/cwdj6w
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-70600-7_38
+  title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
+  authors:
+  - Ernst Althaus
+  - Stefan Canzar
+  publisher: Communications in Computer and Information Science
+  date: ''
+  link: https://doi.org/c2znr5
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.23919/MIPRO57284.2023.10159716
   title: Fortuna Detects Novel Splicing in Drosophila scRNASeq Data
   authors:
@@ -315,30 +709,5 @@
   publisher: 2023 46th MIPRO ICT and Electronics Convention (MIPRO)
   date: '2023-05-22'
   link: https://doi.org/gth95s
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41587-021-01136-7
-  title: Partitioning RNAs by length improves transcriptome reconstruction from short-read
-    RNA-seq data
-  authors:
-  - Francisca Rojas Ringeling
-  - Shounak Chakraborty
-  - Caroline Vissers
-  - Derek Reiman
-  - Akshay M. Patel
-  - Ki-Heon Lee
-  - Ari Hong
-  - Chan-Woo Park
-  - Tim Reska
-  - Julien Gagneur
-  - Hyeshik Chang
-  - Maria L. Spletter
-  - Ki-Jun Yoon
-  - Guo-li Ming
-  - Hongjun Song
-  - Stefan Canzar
-  publisher: Nature Biotechnology
-  date: '2022-01-10'
-  link: https://doi.org/gth95t
   plugin: sources.py
   file: sources.yaml
