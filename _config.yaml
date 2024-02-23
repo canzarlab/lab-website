@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: canzarlab
+title: Canzar Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/lablogo.jpg
+footer: images/lablogo.jpg
 
 # site social media and other links
 links:
