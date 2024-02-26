@@ -23,6 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
+{% include feature.html image="images/publication.jpg" link="research" title="Biology + Algorithms → insight" text=text %}
 
 {% endcapture %}
 
