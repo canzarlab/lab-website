@@ -6,3 +6,5 @@
   image: ../images/pubs/nar22_ccr4.jpeg
 - id: doi:10.1002/cti2.1372
   image: ../images/pubs/cti22_crispr_tcell.jpg
+- id: doi:10.1186/s13059-021-02356-5
+  image: ../images/pubs/jsne.png
