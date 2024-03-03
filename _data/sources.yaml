@@ -14,3 +14,5 @@
   image: ../images/pubs/homotrimers.png
 - id: doi:10.1016/j.ipl.2023.106454
   image: ../images/pubs/antichain_partitioning.png
+- id: doi:10.1109/kse59128.2023.10299517
+  image: ../images/pubs/jsne_ml.png
