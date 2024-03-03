@@ -8,3 +8,5 @@
   image: ../images/pubs/cti22_crispr_tcell.jpg
 - id: doi:10.1186/s13059-021-02356-5
   image: ../images/pubs/jsne.png
+- id: doi:10.1093/bioinformatics/btaa1076
+  image: ../images/pubs/biclustering.jpeg
