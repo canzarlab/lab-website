@@ -12,3 +12,5 @@
   image: ../images/pubs/biclustering.jpeg
 - id: doi:10.1038/s41592-024-02168-y
   image: ../images/pubs/homotrimers.png
+- id: doi:10.1016/j.ipl.2023.106454
+  image: ../images/pubs/antichain_partitioning.png
