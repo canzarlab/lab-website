@@ -10,3 +10,5 @@
   image: ../images/pubs/jsne.png
 - id: doi:10.1093/bioinformatics/btaa1076
   image: ../images/pubs/biclustering.jpeg
+- id: doi:10.1038/s41592-024-02168-y
+  image: ../images/pubs/homotrimers.png
