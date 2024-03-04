@@ -5,7 +5,7 @@
 
 The lab's goal is the development of accurate mathematical models, efficient algorithms, and usable software for the efficient and effective interpretation of vast and complex life sciences data. The link between advances in algorithmic theory and new insights into fundamental problems in biology and human disease constitutes our driving force for research.
 
-{% include figure.html image="images/lab_pic.jpg" width="100%" %}
+{% include figure.html image="images/lab_pic4website.jpg" width="100%" %}
 
 {% include section.html %}
 
