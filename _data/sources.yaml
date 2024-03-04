@@ -20,3 +20,5 @@
   image: ../images/pubs/fortuna_fly.jpg
 - id: doi:10.1016/j.biopsych.2021.04.023
   image: ../images/pubs/cyfip1.png
+- id: doi:10.1038/s41590-022-01268-1
+  image: ../images/pubs/wtap.png
