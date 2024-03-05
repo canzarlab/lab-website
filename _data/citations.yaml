@@ -315,7 +315,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publication.jpg
+  image: ../images/pubs/specter.jpg
 - id: doi:10.1101/2021.01.10.426098
   title: A generalization of t-SNE and UMAP to single-cell multimodal omics
   authors:
