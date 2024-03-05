@@ -37,6 +37,7 @@
   image: ../images/publication.jpg
   #title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural Networks
 - id: doi:10.1101/gr.267906.120
+  image: ../images/publication.jpg
   #title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal data
 - id: doi:10.1101/2021.01.10.426098
   image: ../images/publication.jpg
