@@ -49,7 +49,7 @@
   image: ../images/publication.jpg
   #title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq data'
 - id: doi:10.1261/rna.076026.120
-  image: ../images/publication.jpg
+  image: ../images/pubs/valid_m6a.jpg
   #title: Validation strategies for antibodies targeting modified ribonucleotides
 - id: doi:10.1101/2020.06.15.151910
   image: ../images/publication.jpg
