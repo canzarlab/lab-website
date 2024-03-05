@@ -441,7 +441,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publication.jpg
+  image: ../images/pubs/sphetcher.jpg
 - id: doi:10.1038/s41375-020-0839-4
   title: Clinical presentation and differential splicing of SRSF2, U2AF1 and SF3B1
     mutations in patients with acute myeloid leukemia
