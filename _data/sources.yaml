@@ -22,3 +22,5 @@
   image: ../images/pubs/cyfip1.png
 - id: doi:10.1038/s41590-022-01268-1
   image: ../images/pubs/wtap.png
+- id: doi:10.23919/mipro55190.2022.9803685
+  image: ../images/pubs/branchpoints.jpg
