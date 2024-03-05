@@ -542,7 +542,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publication.jpg
+  image: ../images/pubs/nlrp3.png
 - id: doi:10.1093/bib/bby047
   title: Exploring the functional impact of alternative splicing on human protein
     isoforms using available annotation sources
