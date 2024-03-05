@@ -266,8 +266,9 @@
   date: '2021-08-08'
   link: https://doi.org/gtht4c
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/btab050
   title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq
     data'
@@ -281,8 +282,8 @@
   date: '2021-01-30'
   link: https://doi.org/gqbqqc
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2021.06.24.449725
   title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural
     Networks
@@ -297,8 +298,8 @@
   date: '2021-06-25'
   link: https://doi.org/gtht4d
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gr.267906.120
   title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
     data
@@ -310,8 +311,8 @@
   date: '2021-02-24'
   link: https://doi.org/gtht4f
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2021.01.10.426098
   title: A generalization of t-SNE and UMAP to single-cell multimodal omics
   authors:
@@ -321,8 +322,8 @@
   date: '2021-01-10'
   link: https://doi.org/gtht4g
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btaa1076
   title: 'BiCoN: network-constrained biclustering of patients and omics data'
   authors:
@@ -363,8 +364,8 @@
   date: '2020-03-13'
   link: https://doi.org/gh7jt8
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2020.08.10.243097
   title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq
     data'
@@ -378,8 +379,8 @@
   date: '2020-08-11'
   link: https://doi.org/gtht4h
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1261/rna.076026.120
   title: Validation strategies for antibodies targeting modified ribonucleotides
   authors:
@@ -404,8 +405,8 @@
   date: '2020-07-07'
   link: https://doi.org/gtjbgg
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2020.06.15.151910
   title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
     data
@@ -417,8 +418,8 @@
   date: '2020-06-15'
   link: https://doi.org/gtht4j
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.isci.2020.101126
   title: 'Sphetcher: Spherical Thresholding Improves Sketching of Single-Cell Transcriptomic
     Heterogeneity'
@@ -430,8 +431,8 @@
   date: '2020-06-01'
   link: https://doi.org/gtht4k
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41375-020-0839-4
   title: Clinical presentation and differential splicing of SRSF2, U2AF1 and SF3B1
     mutations in patients with acute myeloid leukemia
@@ -464,8 +465,8 @@
   date: '2020-05-01'
   link: https://doi.org/gr9r9n
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/cmb.2019.0457
   title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
   authors:
@@ -477,8 +478,8 @@
   date: '2020-03-01'
   link: https://doi.org/gtjbgh
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2020.01.31.926345
   title: 'BiCoN: Network-constrained biclustering of patients and omics data'
   authors:
@@ -495,8 +496,8 @@
   date: '2020-02-03'
   link: https://doi.org/gkv8bb
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-1-4939-9873-9
   title: Protein-Protein Interaction Networks
   authors: []
@@ -504,8 +505,8 @@
   date: '2020-01-01'
   link: https://doi.org/gtjbc4
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-019-11076-1
   title: Alternative splicing regulates stochastic NLRP3 activity
   authors:
@@ -527,8 +528,8 @@
   date: '2019-07-19'
   link: https://doi.org/ghdsjf
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bib/bby047
   title: Exploring the functional impact of alternative splicing on human protein
     isoforms using available annotation sources
@@ -547,8 +548,8 @@
   date: '2019-06-03'
   link: https://doi.org/gdrhwm
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.23919/mipro.2019.8756638
   title: Properties of the generalized Robinson-Foulds metric
   authors:
@@ -560,8 +561,8 @@
   date: '2019-05-01'
   link: https://doi.org/gtjbc5
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2019.02.010
   title: A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis
   authors:
@@ -585,8 +586,8 @@
   date: '2019-04-01'
   link: https://doi.org/gfxkjh
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1074/mcp.ra118.001141
   title: Proteome Analysis of Human Neutrophil Granulocytes From Patients With Monogenic
     Disease Using Data-independent Acquisition
@@ -609,8 +610,8 @@
   date: '2019-04-01'
   link: https://doi.org/gnq73z
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/522672
   title: Dynamic pseudo-time warping of complex single-cell trajectories
   authors:
@@ -627,8 +628,8 @@
   date: '2019-01-17'
   link: https://doi.org/gkv5bg
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-1-4939-8808-2_15
   title: Guided Reconstruction of Full-Length Isoforms from Short Reads by CIDANE
   authors:
@@ -638,8 +639,8 @@
   date: '2018-12-12'
   link: https://doi.org/gtjbgj
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-018-07642-8
   title: Genome wide association analysis in a mouse advanced intercross line
   authors:
@@ -657,8 +658,8 @@
   date: '2018-12-04'
   link: https://doi.org/gtjbgk
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.disopt.2017.09.002
   title: On the approximability of the maximum interval constrained coloring problem
   authors:
@@ -670,8 +671,8 @@
   date: '2018-02-01'
   link: https://doi.org/gdb75x
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-319-89929-9_2
   title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
   authors:
@@ -683,8 +684,8 @@
   date: '2018-01-01'
   link: https://doi.org/gtht4m
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-1-4939-7710-9_5
   title: Tracking Alternatively Spliced Isoforms from Long Reads by SpliceHunter
   authors:
@@ -694,8 +695,8 @@
   date: '2018-01-01'
   link: https://doi.org/gtjbc6
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2017.09.003
   title: Temporal Control of Mammalian Cortical Neurogenesis by m6A Methylation
   authors:
@@ -723,8 +724,8 @@
   date: '2017-11-01'
   link: https://doi.org/gcj6jh
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/jproc.2015.2455551
   title: 'Short Read Mapping: An Algorithmic Tour'
   authors:
@@ -734,8 +735,8 @@
   date: '2017-03-01'
   link: https://doi.org/f9z7gr
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gr.208041.116
   title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
   authors:
@@ -746,8 +747,8 @@
   date: '2016-11-17'
   link: https://doi.org/gprddj
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btw631
   title: 'BASIC: BCR assembly from single cells'
   authors:
@@ -760,8 +761,8 @@
   date: '2016-10-02'
   link: https://doi.org/gtjbgm
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btw447
   title: "ModuleAlign: module-based global alignment of protein\u2013protein interaction\
     \ networks"
@@ -775,8 +776,8 @@
   date: '2016-08-29'
   link: https://doi.org/gtjbc7
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/9781119272182.ch11
   title: "Computational Methods for Transcript Assembly from RNA\u2010SEQ Reads"
   authors:
@@ -786,8 +787,8 @@
   date: '2016-08-26'
   link: https://doi.org/gtjbc8
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/cmb.2015.0164
   title: Resolving Conflicting Predictions from Multimapping Reads
   authors:
@@ -799,8 +800,8 @@
   date: '2016-03-01'
   link: https://doi.org/f8dfwv
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13059-015-0865-0
   title: 'CIDANE: comprehensive isoform discovery and abundance estimation'
   authors:
@@ -813,8 +814,8 @@
   date: '2016-01-30'
   link: https://doi.org/gm3fx7
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/cmb.2013.0057
   title: 'The Duplication-Loss Small Phylogeny Problem: From Cherries to Trees'
   authors:
@@ -825,8 +826,8 @@
   date: '2013-09-01'
   link: https://doi.org/f489j7
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/2444016.2493372
   title: A polynomial-delay algorithm for enumerating approximate solutions to the
     interval constrained coloring problem
@@ -838,8 +839,8 @@
   date: '2013-07-30'
   link: https://doi.org/gtjbgn
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btt273
   title: 'GAGE-B: an evaluation of genome assemblers for bacterial organisms'
   authors:
@@ -855,8 +856,8 @@
   date: '2013-05-10'
   link: https://doi.org/f437hn
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00453-013-9785-0
   title: On Tree-Constrained Matchings and Generalizations
   authors:
@@ -868,8 +869,8 @@
   date: '2013-04-24'
   link: https://doi.org/gtjbc9
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1089/cmb.2012.0239
   title: Charge Group Partitioning in Biomolecular Simulation
   authors:
@@ -886,8 +887,8 @@
   date: '2013-03-01'
   link: https://doi.org/gfzvjf
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-40453-5_13
   title: The Generalized Robinson-Foulds Metric
   authors:
@@ -898,8 +899,8 @@
   date: '2013-01-01'
   link: https://doi.org/gtjbdb
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/bts566
   title: 'CLEVER: clique-enumerating variant finder'
   authors:
@@ -914,8 +915,8 @@
   date: '2012-10-11'
   link: https://doi.org/f4fsj9
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1137/1.9781611972924.8
   title: Solving the Minimum String Cover Problem
   authors:
@@ -928,8 +929,8 @@
   date: '2012-01-16'
   link: https://doi.org/gtjbdc
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-29627-7_3
   title: Charge Group Partitioning in Biomolecular Simulation
   authors:
@@ -946,8 +947,8 @@
   date: '2012-01-01'
   link: https://doi.org/gtjbgp
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11590-011-0308-0
   title: An exact algorithm for side-chain placement in protein design
   authors:
@@ -958,8 +959,8 @@
   date: '2011-03-25'
   link: https://doi.org/bvm9kz
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-23038-7_3
   title: A Mathematical Programming Approach to Marker-Assisted Gene Pyramiding
   authors:
@@ -969,8 +970,8 @@
   date: '2011-01-01'
   link: https://doi.org/fkbcp9
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-22006-7_9
   title: On Tree-Constrained Matchings and Generalizations
   authors:
@@ -982,8 +983,8 @@
   date: '2011-01-01'
   link: https://doi.org/d4ctph
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2105-11-424
   title: Computing H/D-Exchange rates of single residues from data of proteolytic
     fragments
@@ -1001,8 +1002,8 @@
   date: '2010-08-11'
   link: https://doi.org/dcnpd2
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00453-010-9406-0
   title: Approximation Algorithms for the Interval Constrained Coloring Problem
   authors:
@@ -1015,8 +1016,8 @@
   date: '2010-04-15'
   link: https://doi.org/df4r2b
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1137/1.9781611972900.3
   title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the
     Interval Constrained Coloring Problem
@@ -1029,8 +1030,8 @@
   date: '2010-01-16'
   link: https://doi.org/gtjbgq
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-17514-5_15
   title: On the Approximability of the Maximum Interval Constrained Coloring Problem
   authors:
@@ -1042,8 +1043,8 @@
   date: '2010-01-01'
   link: https://doi.org/c33jzb
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/1363686.1363981
   title: Computing H/D-exchange speeds of single residues from data of peptic fragments
   authors:
@@ -1058,8 +1059,8 @@
   date: '2008-03-16'
   link: https://doi.org/fmxskk
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s10878-008-9139-z
   title: A Lagrangian relaxation approach for the multiple sequence alignment problem
   authors:
@@ -1069,8 +1070,8 @@
   date: '2008-03-05'
   link: https://doi.org/c7wr7z
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-540-73556-4_29
   title: A Lagrangian Relaxation Approach for the Multiple Sequence Alignment Problem
   authors:
@@ -1080,8 +1081,8 @@
   date: ''
   link: https://doi.org/fgprxk
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-540-69903-3_20
   title: Approximating the Interval Constrained Coloring Problem
   authors:
@@ -1094,8 +1095,8 @@
   date: ''
   link: https://doi.org/cwdj6w
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/017939
   title: 'CIDANE: Comprehensive isoform discovery and abundance estimation'
   authors:
@@ -1108,8 +1109,8 @@
   date: '2015-04-12'
   link: https://doi.org/gkvxxb
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-540-70600-7_38
   title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
   authors:
@@ -1119,8 +1120,8 @@
   date: ''
   link: https://doi.org/c2znr5
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/045922
   title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
   authors:
@@ -1131,5 +1132,5 @@
   date: '2016-03-29'
   link: https://doi.org/gkvmr2
   orcid: 0000-0003-4719-8010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
