@@ -284,6 +284,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/2021.06.24.449725
   title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural
     Networks
@@ -300,6 +301,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/gr.267906.120
   title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
     data
@@ -324,6 +326,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/btaa1076
   title: 'BiCoN: network-constrained biclustering of patients and omics data'
   authors:
@@ -366,6 +369,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/2020.08.10.243097
   title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq
     data'
@@ -381,6 +385,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1261/rna.076026.120
   title: Validation strategies for antibodies targeting modified ribonucleotides
   authors:
@@ -407,6 +412,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/2020.06.15.151910
   title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
     data
@@ -420,6 +426,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1016/j.isci.2020.101126
   title: 'Sphetcher: Spherical Thresholding Improves Sketching of Single-Cell Transcriptomic
     Heterogeneity'
@@ -433,6 +440,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1038/s41375-020-0839-4
   title: Clinical presentation and differential splicing of SRSF2, U2AF1 and SF3B1
     mutations in patients with acute myeloid leukemia
@@ -467,6 +475,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1089/cmb.2019.0457
   title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
   authors:
@@ -480,6 +489,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/2020.01.31.926345
   title: 'BiCoN: Network-constrained biclustering of patients and omics data'
   authors:
@@ -498,6 +508,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-1-4939-9873-9
   title: Protein-Protein Interaction Networks
   authors: []
@@ -507,6 +518,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1038/s41467-019-11076-1
   title: Alternative splicing regulates stochastic NLRP3 activity
   authors:
@@ -530,6 +542,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bib/bby047
   title: Exploring the functional impact of alternative splicing on human protein
     isoforms using available annotation sources
@@ -550,6 +563,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.23919/mipro.2019.8756638
   title: Properties of the generalized Robinson-Foulds metric
   authors:
@@ -563,6 +577,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1016/j.cell.2019.02.010
   title: A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis
   authors:
@@ -588,6 +603,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1074/mcp.ra118.001141
   title: Proteome Analysis of Human Neutrophil Granulocytes From Patients With Monogenic
     Disease Using Data-independent Acquisition
@@ -612,6 +628,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/522672
   title: Dynamic pseudo-time warping of complex single-cell trajectories
   authors:
@@ -630,6 +647,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-1-4939-8808-2_15
   title: Guided Reconstruction of Full-Length Isoforms from Short Reads by CIDANE
   authors:
@@ -641,6 +659,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1038/s41467-018-07642-8
   title: Genome wide association analysis in a mouse advanced intercross line
   authors:
@@ -660,6 +679,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1016/j.disopt.2017.09.002
   title: On the approximability of the maximum interval constrained coloring problem
   authors:
@@ -673,6 +693,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-319-89929-9_2
   title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
   authors:
@@ -686,6 +707,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-1-4939-7710-9_5
   title: Tracking Alternatively Spliced Isoforms from Long Reads by SpliceHunter
   authors:
@@ -697,6 +719,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1016/j.cell.2017.09.003
   title: Temporal Control of Mammalian Cortical Neurogenesis by m6A Methylation
   authors:
@@ -726,6 +749,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1109/jproc.2015.2455551
   title: 'Short Read Mapping: An Algorithmic Tour'
   authors:
@@ -737,6 +761,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/gr.208041.116
   title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
   authors:
@@ -749,6 +774,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/btw631
   title: 'BASIC: BCR assembly from single cells'
   authors:
@@ -763,6 +789,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/btw447
   title: "ModuleAlign: module-based global alignment of protein\u2013protein interaction\
     \ networks"
@@ -778,6 +805,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1002/9781119272182.ch11
   title: "Computational Methods for Transcript Assembly from RNA\u2010SEQ Reads"
   authors:
@@ -789,6 +817,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1089/cmb.2015.0164
   title: Resolving Conflicting Predictions from Multimapping Reads
   authors:
@@ -802,6 +831,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1186/s13059-015-0865-0
   title: 'CIDANE: comprehensive isoform discovery and abundance estimation'
   authors:
@@ -816,6 +846,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1089/cmb.2013.0057
   title: 'The Duplication-Loss Small Phylogeny Problem: From Cherries to Trees'
   authors:
@@ -828,6 +859,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1145/2444016.2493372
   title: A polynomial-delay algorithm for enumerating approximate solutions to the
     interval constrained coloring problem
@@ -841,6 +873,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/btt273
   title: 'GAGE-B: an evaluation of genome assemblers for bacterial organisms'
   authors:
@@ -858,6 +891,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/s00453-013-9785-0
   title: On Tree-Constrained Matchings and Generalizations
   authors:
@@ -871,6 +905,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1089/cmb.2012.0239
   title: Charge Group Partitioning in Biomolecular Simulation
   authors:
@@ -889,6 +924,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-642-40453-5_13
   title: The Generalized Robinson-Foulds Metric
   authors:
@@ -901,6 +937,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1093/bioinformatics/bts566
   title: 'CLEVER: clique-enumerating variant finder'
   authors:
@@ -917,6 +954,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1137/1.9781611972924.8
   title: Solving the Minimum String Cover Problem
   authors:
@@ -931,6 +969,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-642-29627-7_3
   title: Charge Group Partitioning in Biomolecular Simulation
   authors:
@@ -949,6 +988,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/s11590-011-0308-0
   title: An exact algorithm for side-chain placement in protein design
   authors:
@@ -961,6 +1001,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-642-23038-7_3
   title: A Mathematical Programming Approach to Marker-Assisted Gene Pyramiding
   authors:
@@ -972,6 +1013,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-642-22006-7_9
   title: On Tree-Constrained Matchings and Generalizations
   authors:
@@ -985,6 +1027,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1186/1471-2105-11-424
   title: Computing H/D-Exchange rates of single residues from data of proteolytic
     fragments
@@ -1004,6 +1047,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/s00453-010-9406-0
   title: Approximation Algorithms for the Interval Constrained Coloring Problem
   authors:
@@ -1018,6 +1062,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1137/1.9781611972900.3
   title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the
     Interval Constrained Coloring Problem
@@ -1032,6 +1077,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-642-17514-5_15
   title: On the Approximability of the Maximum Interval Constrained Coloring Problem
   authors:
@@ -1045,6 +1091,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1145/1363686.1363981
   title: Computing H/D-exchange speeds of single residues from data of peptic fragments
   authors:
@@ -1061,6 +1108,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/s10878-008-9139-z
   title: A Lagrangian relaxation approach for the multiple sequence alignment problem
   authors:
@@ -1072,6 +1120,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-540-73556-4_29
   title: A Lagrangian Relaxation Approach for the Multiple Sequence Alignment Problem
   authors:
@@ -1083,6 +1132,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-540-69903-3_20
   title: Approximating the Interval Constrained Coloring Problem
   authors:
@@ -1097,6 +1147,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/017939
   title: 'CIDANE: Comprehensive isoform discovery and abundance estimation'
   authors:
@@ -1111,6 +1162,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1007/978-3-540-70600-7_38
   title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
   authors:
@@ -1122,6 +1174,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
 - id: doi:10.1101/045922
   title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
   authors:
@@ -1134,3 +1187,4 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
+  image: ../images/publication.jpg
