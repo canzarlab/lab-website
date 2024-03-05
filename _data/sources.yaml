@@ -69,7 +69,7 @@
   image: ../images/publication.jpg
   #title: Protein-Protein Interaction Networks
 - id: doi:10.1038/s41467-019-11076-1
-  image: ../images/publication.jpg
+  image: ../images/pubs/nlrp3.png
   #title: Alternative splicing regulates stochastic NLRP3 activity
 - id: doi:10.1093/bib/bby047
   image: ../images/publication.jpg
