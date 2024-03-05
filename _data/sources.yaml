@@ -28,6 +28,7 @@
   image: ../images/pubs/ladder_logo_final.jpg
 
 - id: doi:10.1101/2021.08.08.455218
+  image: ../images/publication.jpg
   #title: Ccr4-Not complex reduces transcription efficiency in heterochromatin
 - id: doi:10.1093/bioinformatics/btab050
   #title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq data'
