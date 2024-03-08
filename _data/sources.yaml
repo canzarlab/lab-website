@@ -178,7 +178,7 @@
   image: ../images/publication.jpg
   #title: Computing H/D-exchange speeds of single residues from data of peptic fragments
 - id: doi:10.1007/s10878-008-9139-z
-  image: ../images/publication.jpg
+  image: ../images/pubs/msa_lagrange.png
   #title: A Lagrangian relaxation approach for the multiple sequence alignment problem
 - id: doi:10.1007/978-3-540-73556-4_29
   image: ../images/publication.jpg
