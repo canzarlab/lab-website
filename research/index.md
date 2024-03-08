@@ -16,6 +16,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Partitioning RNAs by length improves transcriptome reconstruction from short-read" style="rich" %}
 
+{% include citation.html lookup="On Tree-Constrained Matchings and Generalizations" style="rich" %}
+
 {% include section.html %}
 
 ## All
