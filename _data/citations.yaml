@@ -1121,7 +1121,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publication.jpg
+  image: ../images/pubs/msa_lagrange.png
 - id: doi:10.1007/978-3-540-73556-4_29
   title: A Lagrangian Relaxation Approach for the Multiple Sequence Alignment Problem
   authors:
