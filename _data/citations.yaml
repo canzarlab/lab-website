@@ -1195,7 +1195,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publication.jpg
-- id: https://dblp.uni-trier.de/db/conf/biocomp/biocomp2009.html#AlthausCEEKMMTZ09
+- id: ISBN:1-60132-095-7
   title: Discrete Fitting of Hydrogen-Deuterium-Exchange-data of Overlapping Fragments
   authors:
   - Ernst Althaus
