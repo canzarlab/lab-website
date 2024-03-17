@@ -86,7 +86,7 @@
   #title: Proteome Analysis of Human Neutrophil Granulocytes From Patients With Monogenic Disease Using Data-independent Acquisition
 - id: doi:10.1101/522672
   image: ../images/publication.jpg
-  publisher: RECOMB
+  publisher: RECOMB 2019 (LNCS)
   #title: Dynamic pseudo-time warping of complex single-cell trajectories
 - id: doi:10.1007/978-1-4939-8808-2_15
   image: ../images/publication.jpg
@@ -99,7 +99,7 @@
   #title: On the approximability of the maximum interval constrained coloring problem
 - id: doi:10.1007/978-3-319-89929-9_2
   image: ../images/publication.jpg
-  publisher: RECOMB 2018
+  publisher: RECOMB 2018 (LNCS)
   #title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
 - id: doi:10.1007/978-1-4939-7710-9_5
   image: ../images/publication.jpg
