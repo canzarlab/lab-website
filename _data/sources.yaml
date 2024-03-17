@@ -88,6 +88,9 @@
   image: ../images/publication.jpg
   link: https://link.springer.com/content/pdf/bbm:978-3-030-17083-7/1.pdf
   publisher: RECOMB 2019 (LNCS)
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/522672v1
   #title: Dynamic pseudo-time warping of complex single-cell trajectories
 - id: doi:10.1007/978-1-4939-8808-2_15
   image: ../images/publication.jpg
