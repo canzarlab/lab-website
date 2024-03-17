@@ -649,6 +649,9 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publication.jpg
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/522672v1
 - id: doi:10.1007/978-1-4939-8808-2_15
   title: Guided Reconstruction of Full-Length Isoforms from Short Reads by CIDANE
   authors:
