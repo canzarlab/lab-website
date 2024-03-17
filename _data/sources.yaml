@@ -196,6 +196,8 @@
   #title: A Lagrangian Relaxation Approach for the Multiple Sequence Alignment Problem
 - id: doi:10.1007/978-3-540-69903-3_20
   image: ../images/publication.jpg
+  date: '2008-07-02'
+  publisher: Algorithm Theory (SWAT 2008)
   #title: Approximating the Interval Constrained Coloring Problem
 - id: doi:10.1101/017939
   image: ../images/publication.jpg
