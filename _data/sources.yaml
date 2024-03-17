@@ -218,10 +218,10 @@
 - id: ISBN:978-3-88579-177-5
   image: ../images/publication.jpg
   link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
-  title: Shape distributions and protein similarity
+  title: Solving the extended pairwise alignment problem efficiently
   authors:
     - Stefan Canzar
-    - Jan Remy
+    - Ernst Althaus
   publisher: GCB 2006
   date: '2006-09-19'
 - id: ISBN:1-60132-095-7
