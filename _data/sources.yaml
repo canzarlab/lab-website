@@ -240,3 +240,12 @@
     - Jan Remy
   publisher: GCB 2006
   date: '2006-09-19'
+- id: MPI
+  image: ../images/publication.jpg
+  link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
+  title: Solving the extended pairwise alignment problem efficiently
+  authors: 
+    - Stefan Canzar
+    - Ernst Althaus
+  publisher: MPI
+  date: ''
