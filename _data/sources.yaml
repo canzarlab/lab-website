@@ -205,6 +205,8 @@
   #title: 'CIDANE: Comprehensive isoform discovery and abundance estimation'
 - id: doi:10.1007/978-3-540-70600-7_38
   image: ../images/publication.jpg
+  publisher: BIRD 
+  date: '2008'
   #title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
 - id: doi:10.1101/045922
   image: ../images/publication.jpg
