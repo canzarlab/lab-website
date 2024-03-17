@@ -642,9 +642,9 @@
   - Francisca Rojas Ringeling
   - "Domagoj Matijevi\u0107"
   - Stefan Canzar
-  publisher: RECOMB
+  publisher: RECOMB 2019 (LNCS)
   date: '2019-01-17'
-  link: https://doi.org/gkv5bg
+  link: https://link.springer.com/content/pdf/bbm:978-3-030-17083-7/1.pdf
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
@@ -702,7 +702,7 @@
   - Stefan Canzar
   - Tobias Marschall
   - Marcel H. Schulz
-  publisher: RECOMB 2018
+  publisher: RECOMB 2018 (LNCS)
   date: '2018-01-01'
   link: https://doi.org/gtht4m
   orcid: 0000-0003-4719-8010
