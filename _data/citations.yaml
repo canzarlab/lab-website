@@ -1213,3 +1213,14 @@
   image: ../images/publication.jpg
   plugin: sources.py
   file: sources.yaml
+- id: ISBN:978-3-88579-177-5
+  title: Shape distributions and protein similarity
+  authors:
+  - Stefan Canzar
+  - Jan Remy
+  publisher: GCB 2006
+  date: '2006-09-19'
+  link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
+  image: ../images/publication.jpg
+  plugin: sources.py
+  file: sources.yaml
