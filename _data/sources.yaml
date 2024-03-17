@@ -86,6 +86,7 @@
   #title: Proteome Analysis of Human Neutrophil Granulocytes From Patients With Monogenic Disease Using Data-independent Acquisition
 - id: doi:10.1101/522672
   image: ../images/publication.jpg
+  publisher: RECOMB
   #title: Dynamic pseudo-time warping of complex single-cell trajectories
 - id: doi:10.1007/978-1-4939-8808-2_15
   image: ../images/publication.jpg
