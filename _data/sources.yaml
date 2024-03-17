@@ -149,7 +149,7 @@
   #title: Charge Group Partitioning in Biomolecular Simulation
 - id: doi:10.1007/978-3-642-40453-5_13
   image: ../images/publication.jpg
-  publisher: WABI 2013 (Algorithms in Bioinformatics)
+  publisher: Algorithms in Bioinformatics (WABI 2013)
   #title: The Generalized Robinson-Foulds Metric
 - id: doi:10.1093/bioinformatics/bts566
   image: ../images/publication.jpg
@@ -181,6 +181,7 @@
   #title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the Interval Constrained Coloring Problem
 - id: doi:10.1007/978-3-642-17514-5_15
   image: ../images/publication.jpg
+  publisher: Algorithms and Computation (ISAAC 2010)
   #title: On the Approximability of the Maximum Interval Constrained Coloring Problem
 - id: doi:10.1145/1363686.1363981
   image: ../images/publication.jpg
