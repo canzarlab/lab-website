@@ -1195,6 +1195,17 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publication.jpg
+- id: ISBN:978-3-88579-177-5
+  title: Shape distributions and protein similarity
+  authors:
+  - Stefan Canzar
+  - Jan Remy
+  publisher: GCB 2006
+  date: '2006-09-19'
+  link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
+  image: ../images/publication.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: ISBN:1-60132-095-7
   title: Discrete Fitting of Hydrogen-Deuterium-Exchange-data of Overlapping Fragments
   authors:
@@ -1210,17 +1221,6 @@
   publisher: BIOCOMP 2009
   date: '2009-10-28'
   link: https://dblp.org/rec/conf/biocomp/AlthausCEEKMMTZ09.html
-  image: ../images/publication.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: ISBN:978-3-88579-177-5
-  title: Shape distributions and protein similarity
-  authors:
-  - Stefan Canzar
-  - Jan Remy
-  publisher: GCB 2006
-  date: '2006-09-19'
-  link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
   image: ../images/publication.jpg
   plugin: sources.py
   file: sources.yaml
