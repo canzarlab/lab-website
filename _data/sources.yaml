@@ -209,3 +209,20 @@
 - id: doi:10.1101/045922
   image: ../images/publication.jpg
   #title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
+
+- id: https://dblp.uni-trier.de/db/conf/biocomp/biocomp2009.html#AlthausCEEKMMTZ09
+  image: ../images/publication.jpg
+  link: https://dblp.org/rec/conf/biocomp/AlthausCEEKMMTZ09.html
+  title: Discrete Fitting of Hydrogen-Deuterium-Exchange-data of Overlapping Fragments
+  authors:
+    - Ernst Althaus
+    - Stefan Canzar
+    - Carsten Ehrler
+    - Mark R. Emmett
+    - Andreas Karrenbauer
+    - Alan G. Marshall
+    - Anke Meyer-Bäse
+    - Jeremiah Tiptopn
+    - Huimin Zhang
+  publisher: BIOCOMP 2009
+  date: "2021-09-30"
