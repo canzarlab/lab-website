@@ -87,7 +87,7 @@
 - id: doi:10.1101/522672
   image: ../images/publication.jpg
   link: https://link.springer.com/content/pdf/bbm:978-3-030-17083-7/1.pdf
-  publisher: RECOMB 2019 (LNCS)
+  publisher: RECOMB 2019
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/522672v1
@@ -103,7 +103,7 @@
   #title: On the approximability of the maximum interval constrained coloring problem
 - id: doi:10.1007/978-3-319-89929-9_2
   image: ../images/publication.jpg
-  publisher: RECOMB 2018 (LNCS)
+  publisher: RECOMB 2018
   #title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
 - id: doi:10.1007/978-1-4939-7710-9_5
   image: ../images/publication.jpg
@@ -158,7 +158,7 @@
   #title: Solving the Minimum String Cover Problem
 - id: doi:10.1007/978-3-642-29627-7_3
   image: ../images/publication.jpg
-  publisher: RECOMB 2012 (LNCS)
+  publisher: RECOMB 2012
   #title: Charge Group Partitioning in Biomolecular Simulation
 - id: doi:10.1007/s11590-011-0308-0
   image: ../images/publication.jpg
