@@ -1162,11 +1162,14 @@
   - Gunnar W. Klau
   publisher: Cold Spring Harbor Laboratory
   date: '2015-04-12'
-  link: https://doi.org/gkvxxb
+  link: https://link.springer.com/chapter/10.1007/978-3-319-16706-0_8
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
   image: ../images/publication.jpg
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/017939v1
 - id: doi:10.1007/978-3-540-70600-7_38
   title: 'LASA: A Tool for Non-heuristic Alignment of Multiple Sequences'
   authors:
