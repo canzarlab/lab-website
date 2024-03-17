@@ -195,6 +195,10 @@
   #title: Approximating the Interval Constrained Coloring Problem
 - id: doi:10.1101/017939
   image: ../images/publication.jpg
+  link: https://link.springer.com/chapter/10.1007/978-3-319-16706-0_8
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/017939v1
   #title: 'CIDANE: Comprehensive isoform discovery and abundance estimation'
 - id: doi:10.1007/978-3-540-70600-7_38
   image: ../images/publication.jpg
