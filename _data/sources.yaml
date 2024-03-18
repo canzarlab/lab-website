@@ -157,6 +157,7 @@
   #title: 'CLEVER: clique-enumerating variant finder'
 - id: doi:10.1137/1.9781611972924.8
   image: ../images/publication.jpg
+  publisher: Algorithm Engineering and Experiments (ALENEX)
   #title: Solving the Minimum String Cover Problem
 - id: doi:10.1007/978-3-642-29627-7_3
   image: ../images/publication.jpg
