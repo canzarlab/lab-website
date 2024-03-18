@@ -168,6 +168,7 @@
   #title: An exact algorithm for side-chain placement in protein design
 - id: doi:10.1007/978-3-642-23038-7_3
   image: ../images/publication.jpg
+  publisher: Algorithms in Bioinformatics (WABI 2011)
   #title: A Mathematical Programming Approach to Marker-Assisted Gene Pyramiding
 - id: doi:10.1007/978-3-642-22006-7_9
   image: ../images/publication.jpg
