@@ -137,6 +137,7 @@
   #title: 'The Duplication-Loss Small Phylogeny Problem: From Cherries to Trees'
 - id: doi:10.1145/2444016.2493372
   image: ../images/pubs/polydelay_intervalcolor.png
+  publisher: Algorithm Engineering and Experiments (ALENEX)
   #title: A polynomial-delay algorithm for enumerating approximate solutions to the interval constrained coloring problem
 - id: doi:10.1093/bioinformatics/btt273
   image: ../images/publication.jpg
@@ -249,5 +250,3 @@
     - Jan Remy
   publisher: GCB 2006
   date: '2006-09-19'
-- id: doi:10.1137/1.9781611972900.3
-  publisher: Algorithm Engineering and Experiments (ALENEX)
