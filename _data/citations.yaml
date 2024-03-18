@@ -871,7 +871,7 @@
   - Stefan Canzar
   - Khaled Elbassioni
   - "Juli\xE1n Mestre"
-  publisher: ACM Journal of Experimental Algorithmics
+  publisher: Algorithm Engineering and Experiments (ALENEX)
   date: '2013-07-30'
   link: https://doi.org/gtjbgn
   orcid: 0000-0003-4719-8010
@@ -966,8 +966,7 @@
   - Tobias Marschall
   - Sven Rahmann
   - Chris Schwiegelshohn
-  publisher: 2012 Proceedings of the Fourteenth Workshop on Algorithm Engineering
-    and Experiments (ALENEX)
+  publisher: Algorithm Engineering and Experiments (ALENEX)
   date: '2012-01-16'
   link: https://doi.org/gtjbdc
   orcid: 0000-0003-4719-8010
@@ -1011,7 +1010,7 @@
   authors:
   - Stefan Canzar
   - Mohammed El-Kebir
-  publisher: Lecture Notes in Computer Science
+  publisher: Algorithms in Bioinformatics (WABI 2011)
   date: '2011-01-01'
   link: https://doi.org/fkbcp9
   orcid: 0000-0003-4719-8010
@@ -1074,7 +1073,8 @@
   - Stefan Canzar
   - Khaled Elbassioni
   - "Juli\xE1n Mestre"
-  publisher: Algorithm Engineering and Experiments (ALENEX)
+  publisher: 2010 Proceedings of the Twelfth Workshop on Algorithm Engineering and
+    Experiments (ALENEX)
   date: '2010-01-16'
   link: https://doi.org/gtjbgq
   orcid: 0000-0003-4719-8010
