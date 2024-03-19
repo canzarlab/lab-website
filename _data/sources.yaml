@@ -27,7 +27,6 @@
   image: ../images/pubs/branchpoints.jpg
 - id: doi:10.1038/s41587-021-01136-7
   image: ../images/pubs/ladder_logo_final.jpg
-
 - id: doi:10.1101/2021.08.08.455218
   image: ../images/publication.jpg
   #title: Ccr4-Not complex reduces transcription efficiency in heterochromatin
