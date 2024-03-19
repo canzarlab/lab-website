@@ -222,12 +222,12 @@
   #title: The dynamic landscape of fission yeast meiosis alternative-splice isoforms
 - title: Solving the extended pairwise alignment problem efficiently
   image: ../images/publication.jpg
-  link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
+  link: https://pure.mpg.de/rest/items/item_1819098/component/file_1840731/content
   authors:
     - Stefan Canzar
     - Ernst Althaus
-  publisher: GCB 2006
-  date: '2006-09-19'
+  publisher: Max-Planck-Institut f\XFCr Informatik [Research Report]
+  date: '2007-05'
 - id: ISBN:1-60132-095-7
   image: ../images/publication.jpg
   link: https://dblp.org/rec/conf/biocomp/AlthausCEEKMMTZ09.html
