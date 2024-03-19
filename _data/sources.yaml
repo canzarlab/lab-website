@@ -189,6 +189,7 @@
   #title: On the Approximability of the Maximum Interval Constrained Coloring Problem
 - id: doi:10.1145/1363686.1363981
   image: ../images/publication.jpg
+  publisher: ACM Symposium on Applied Computing (SAC)
   #title: Computing H/D-exchange speeds of single residues from data of peptic fragments
 - id: doi:10.1007/s10878-008-9139-z
   image: ../images/pubs/msa_lagrange.png
