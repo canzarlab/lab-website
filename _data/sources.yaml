@@ -87,7 +87,7 @@
 - id: doi:10.1101/522672
   image: ../images/publication.jpg
   link: https://link.springer.com/content/pdf/bbm:978-3-030-17083-7/1.pdf
-  publisher: RECOMB 2019
+  publisher: RECOMB
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/522672v1
@@ -103,7 +103,7 @@
   #title: On the approximability of the maximum interval constrained coloring problem
 - id: doi:10.1007/978-3-319-89929-9_2
   image: ../images/publication.jpg
-  publisher: RECOMB 2018
+  publisher: RECOMB
   #title: 'Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data'
 - id: doi:10.1007/978-1-4939-7710-9_5
   image: ../images/publication.jpg
@@ -150,7 +150,7 @@
   #title: Charge Group Partitioning in Biomolecular Simulation
 - id: doi:10.1007/978-3-642-40453-5_13
   image: ../images/publication.jpg
-  publisher: Algorithms in Bioinformatics (WABI 2013)
+  publisher: Algorithms in Bioinformatics (WABI)
   #title: The Generalized Robinson-Foulds Metric
 - id: doi:10.1093/bioinformatics/bts566
   image: ../images/publication.jpg
@@ -168,7 +168,7 @@
   #title: An exact algorithm for side-chain placement in protein design
 - id: doi:10.1007/978-3-642-23038-7_3
   image: ../images/publication.jpg
-  publisher: Algorithms in Bioinformatics (WABI 2011)
+  publisher: Algorithms in Bioinformatics (WABI)
   #title: A Mathematical Programming Approach to Marker-Assisted Gene Pyramiding
 - id: doi:10.1007/978-3-642-22006-7_9
   image: ../images/publication.jpg
@@ -185,7 +185,7 @@
   #title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the Interval Constrained Coloring Problem
 - id: doi:10.1007/978-3-642-17514-5_15
   image: ../images/publication.jpg
-  publisher: Algorithms and Computation (ISAAC 2010)
+  publisher: Algorithms and Computation (ISAAC)
   #title: On the Approximability of the Maximum Interval Constrained Coloring Problem
 - id: doi:10.1145/1363686.1363981
   image: ../images/publication.jpg
@@ -202,7 +202,7 @@
 - id: doi:10.1007/978-3-540-69903-3_20
   image: ../images/publication.jpg
   date: '2008-07-02'
-  publisher: Algorithm Theory (SWAT 2008)
+  publisher: Algorithm Theory (SWAT)
   #title: Approximating the Interval Constrained Coloring Problem
 - id: doi:10.1101/017939
   image: ../images/publication.jpg
@@ -234,7 +234,7 @@
     - Anke Meyer-B\xE4se
     - Jeremiah Tiptopn
     - Huimin Zhang
-  publisher: BIOCOMP 2009
+  publisher: BIOCOMP
   date: '2009-10-28'
 - id: ISBN:978-3-88579-177-5
   image: ../images/publication.jpg
@@ -243,5 +243,5 @@
   authors:
     - Stefan Canzar
     - Jan Remy
-  publisher: GCB 2006
+  publisher: GCB
   date: '2006-09-19'
