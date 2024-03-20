@@ -19,12 +19,14 @@
   publisher: KSE
 - id: doi:10.23919/mipro57284.2023.10159716
   image: ../images/pubs/fortuna_fly.jpg
+  publisher: MIPRO
 - id: doi:10.1016/j.biopsych.2021.04.023
   image: ../images/pubs/cyfip1.png
 - id: doi:10.1038/s41590-022-01268-1
   image: ../images/pubs/wtap.png
 - id: doi:10.23919/mipro55190.2022.9803685
   image: ../images/pubs/branchpoints.jpg
+  publisher: MIPRO
 - id: doi:10.1038/s41587-021-01136-7
   image: ../images/pubs/ladder_logo_final.jpg
 - id: doi:10.1101/2021.08.08.455218
