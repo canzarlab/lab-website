@@ -16,7 +16,7 @@
   image: ../images/pubs/antichain_partitioning.png
 - id: doi:10.1109/kse59128.2023.10299517
   image: ../images/pubs/jsne_ml.png
-  publisher: KSE 2023
+  publisher: KSE
 - id: doi:10.23919/mipro57284.2023.10159716
   image: ../images/pubs/fortuna_fly.jpg
 - id: doi:10.1016/j.biopsych.2021.04.023
