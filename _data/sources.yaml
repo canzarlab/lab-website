@@ -181,6 +181,7 @@
   #title: Approximation Algorithms for the Interval Constrained Coloring Problem
 - id: doi:10.1137/1.9781611972900.3
   image: ../images/publication.jpg
+  publisher: Algorithm Engineering and Experiments (ALENEX)
   #title: A Polynomial Delay Algorithm for Enumerating Approximate Solutions to the Interval Constrained Coloring Problem
 - id: doi:10.1007/978-3-642-17514-5_15
   image: ../images/publication.jpg
