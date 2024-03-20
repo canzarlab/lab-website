@@ -641,7 +641,7 @@
   - Francisca Rojas Ringeling
   - "Domagoj Matijevi\u0107"
   - Stefan Canzar
-  publisher: RECOMB 2019
+  publisher: RECOMB
   date: '2019-01-17'
   link: https://link.springer.com/content/pdf/bbm:978-3-030-17083-7/1.pdf
   orcid: 0000-0003-4719-8010
@@ -704,7 +704,7 @@
   - Stefan Canzar
   - Tobias Marschall
   - Marcel H. Schulz
-  publisher: RECOMB 2018
+  publisher: RECOMB
   date: '2018-01-01'
   link: https://doi.org/gtht4m
   orcid: 0000-0003-4719-8010
@@ -934,7 +934,7 @@
   - "Sebastian B\xF6cker"
   - Stefan Canzar
   - Gunnar W. Klau
-  publisher: Algorithms in Bioinformatics (WABI 2013)
+  publisher: Algorithms in Bioinformatics (WABI)
   date: '2013-01-01'
   link: https://doi.org/gtjbdb
   orcid: 0000-0003-4719-8010
@@ -1009,7 +1009,7 @@
   authors:
   - Stefan Canzar
   - Mohammed El-Kebir
-  publisher: Algorithms in Bioinformatics (WABI 2011)
+  publisher: Algorithms in Bioinformatics (WABI)
   date: '2011-01-01'
   link: https://doi.org/fkbcp9
   orcid: 0000-0003-4719-8010
@@ -1086,7 +1086,7 @@
   - Khaled Elbassioni
   - Amr Elmasry
   - Rajiv Raman
-  publisher: Algorithms and Computation (ISAAC 2010)
+  publisher: Algorithms and Computation (ISAAC)
   date: '2010-01-01'
   link: https://doi.org/c33jzb
   orcid: 0000-0003-4719-8010
@@ -1142,7 +1142,7 @@
   - Khaled Elbassioni
   - Andreas Karrenbauer
   - "Juli\xE1n Mestre"
-  publisher: Algorithm Theory (SWAT 2008)
+  publisher: Algorithm Theory (SWAT)
   date: '2008-07-02'
   link: https://doi.org/cwdj6w
   orcid: 0000-0003-4719-8010
@@ -1204,7 +1204,7 @@
   - Anke Meyer-B\xE4se
   - Jeremiah Tiptopn
   - Huimin Zhang
-  publisher: BIOCOMP 2009
+  publisher: BIOCOMP
   date: '2009-10-28'
   link: https://dblp.org/rec/conf/biocomp/AlthausCEEKMMTZ09.html
   image: ../images/publication.jpg
@@ -1215,7 +1215,7 @@
   authors:
   - Stefan Canzar
   - Jan Remy
-  publisher: GCB 2006
+  publisher: GCB
   date: '2006-09-19'
   link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
   image: ../images/publication.jpg
