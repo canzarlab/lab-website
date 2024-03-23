@@ -1220,3 +1220,12 @@
   image: ../images/publication.jpg
   plugin: sources.py
   file: sources.yaml
+- title: test
+  authors:
+  - stefan
+  - canzar
+  publisher: biorxiv
+  date: ''
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
