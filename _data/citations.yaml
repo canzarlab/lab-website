@@ -1225,7 +1225,7 @@
   - stefan
   - canzar
   publisher: biorxiv
-  date: ''
+  date: '2021-01-02'
   link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
