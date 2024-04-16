@@ -1,6 +1,6 @@
 ---
 name: Danrong Li
-image: images/team/Danrong_Profile.jpeg
+image: images/team/danrong.jpeg
 role: phd
 links:
   home-page: https://danrongli.github.io
