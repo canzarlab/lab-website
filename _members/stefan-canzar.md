@@ -1,6 +1,6 @@
 ---
 name: Stefan Canzar
-image: images/team/stefan.jpeg
+image: images/team/stefan.jpg
 role: pi
 links:
   home-page: https://www.canzarlar.com
