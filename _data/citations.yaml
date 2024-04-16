@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.04.02.587783
+  title: Transcript Isoform Diversity of Y Chromosome Ampliconic Genes of Great Apes
+    Uncovered Using Long Reads and Telomere-to-Telomere Reference Genome Assemblies
+  authors:
+  - Aleksandra Greshnova
+  - "Karol P\xE1l"
+  - Juan Francisco Iturralde Martinez
+  - Stefan Canzar
+  - Kateryna D. Makova
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-03'
+  link: https://doi.org/gtp93t
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ipl.2023.106454
   title: Anti Tai mapping for unordered labeled trees
   authors:
@@ -1218,14 +1233,5 @@
   date: '2006-09-19'
   link: https://dblp.org/db/conf/gcb/gcb2006.html#CanzarR06
   image: ../images/publication.jpg
-  plugin: sources.py
-  file: sources.yaml
-- title: test
-  authors:
-  - stefan
-  - canzar
-  publisher: biorxiv
-  date: '2021-01-02'
-  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
