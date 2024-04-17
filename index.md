@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a group of enthusiastic researchers who bring together algorithm theory, data science, software engineering and genomics to learn new biology.
 
 {%
   include button.html
