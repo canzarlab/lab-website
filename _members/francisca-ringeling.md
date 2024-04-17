@@ -1,6 +1,6 @@
 ---
 name: Francisca Rojas Ringeling
-image: images/picture.jpg
+image: images/team/francisca.jpg
 description: Senior Research Scientist
 ---
 
