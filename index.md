@@ -39,7 +39,7 @@ We translante novel algorithms into open-source software tools that anyone aroun
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ We translante novel algorithms into open-source software tools that anyone aroun
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Open source software"
   flip=true
   style="bare"
   text=text
