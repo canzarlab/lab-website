@@ -11,7 +11,7 @@ The lab's goal is the development of accurate mathematical models, efficient alg
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop and apply algorithms to gain novel insights into important biological and medical questions.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We translante novel algorithms into open-source software tools that anyone around the world can freely use.
 
 {%
   include button.html
