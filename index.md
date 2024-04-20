@@ -49,7 +49,7 @@ We translante novel algorithms into open-source software tools that anyone aroun
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/amiga.jpg"
   link="projects"
   title="Open source software"
   flip=true
