@@ -17,9 +17,9 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="email"
+  text="Email Sekretary's Office"
+  link="sekretariat.canzar@ur.de"
 %}
 {%
   include button.html
