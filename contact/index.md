@@ -30,6 +30,8 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 
 {% include section.html %}
 
+### {% include icon.html icon="fa-regular fa-mail-bulk" %}Mailing Address
+
 {% capture col1 %}
 
 {%
