@@ -12,8 +12,8 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email PI"
+  link="stefan.canzar@ur.de"
 %}
 {%
   include button.html
@@ -35,7 +35,7 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 {%
   include figure.html
   image="images/ur_fruehling_weich.jpg"
-  caption="Campus University of Regensburg (by UR/Matthias Weich)"
+  caption="Campus University of Regensburg - by UR/Matthias Weich"
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 {%
   include figure.html
   image="images/2020_regensburg_deli.jpg"
-  caption="Regensburg's Old City (by UR/Markus Deli)"
+  caption="Regensburg's Old City - by UR/Markus Deli"
 %}
 
 {% endcapture %}
