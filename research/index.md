@@ -9,7 +9,7 @@ nav:
 
 For the development of accurate and efficient computational methods we combine techniques from combinatorial optimization and machine learning. For instance, we have developed exact and approximate algorithms for a graph coloring problem to increase the resolution of experimental protein structure data, used neural networks to project high-dimensional cellular measurments to an interpretable low-dimensional space, and extended dynamic time warping to the comparison of complex trajectories of, e.g., differentiating immune cells.
 
-The software tools we develop address important biological and medical questions. In a collaboration with the Song lab (University of Pennsylvania) we have contributed to the discovery of the embryonic origin of adult neural progenitors, and the epitranscriptomic temporal control of mouse brain development; we have helped Tobias Feuchtinger at the pediatric university hospital of the LMU Munich to link TIM-3 expression to increased relapse risk in pediatric patients with acute lymphoblastic leukemia.
+The software tools we develop address important biological and medical questions. In close collaborations with biologists and clinicians we have contributed, for example, to the discovery of the embryonic origin of adult neural progenitors, and to linking TIM-3 expression to increased relapse risk in pediatric patients with acute lymphoblastic leukemia.
 
 {% include section.html %}
 
