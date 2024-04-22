@@ -147,7 +147,7 @@
   image: ../images/publication.jpg
   #title: 'GAGE-B: an evaluation of genome assemblers for bacterial organisms'
 - id: doi:10.1007/s00453-013-9785-0
-  image: ../images/publication.jpg
+  image: ../images/pubs/tree_approx.jpg
   #title: On Tree-Constrained Matchings and Generalizations
 - id: doi:10.1089/cmb.2012.0239
   image: ../images/publication.jpg
