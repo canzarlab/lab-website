@@ -59,7 +59,7 @@ We translante novel algorithms into open-source software tools that anyone aroun
 
 {% capture text %}
 
-We are a group of enthusiastic researchers who bring together algorithm theory, data science, software engineering and genomics to learn new biology.
+We are a group of enthusiastic researchers who bring together algorithm theory, data science, genomics, and software engineering to learn new biology.
 
 {%
   include button.html
