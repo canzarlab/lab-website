@@ -44,7 +44,7 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/sommer_ur_proels.jpg"
   caption="Lorem ipsum"
 %}
 
