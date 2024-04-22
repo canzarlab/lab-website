@@ -923,7 +923,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publication.jpg
+  image: ../images/pubs/tree_approx.jpg
 - id: doi:10.1089/cmb.2012.0239
   title: Charge Group Partitioning in Biomolecular Simulation
   authors:
