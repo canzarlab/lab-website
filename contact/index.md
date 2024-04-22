@@ -34,7 +34,7 @@ We are part of the faculty of informatics and data science (FIDS) at the Univers
 
 {%
   include figure.html
-  image="images/ur_fruehling_weich.jpg"
+  image="images/2020_regensburg_deli.jpg"
   caption="FIDS at UR"
 %}
 
