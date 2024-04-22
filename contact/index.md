@@ -9,9 +9,7 @@ nav:
 
 We are part of the Faculty of Informatics and Data Science (FIDS) at the University of Regensburg (UR). The lab is located on the 4th floor at
 
-### {% include icon.html icon="fa-regular fa-mail-bulk" %}Mailing Address
-
-Bajuwarenstr. 4,
+{% include icon.html icon="fa-regular fa-mail-bulk" %}Bajuwarenstr. 4,
 93053 Regensburg, Germany
 {:.center}
 
