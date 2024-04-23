@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}
 
-Coming soon... 
+## Coming soon... 
 
 {% include tags.html tags="publication, resource, website" %}
 
