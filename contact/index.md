@@ -22,7 +22,7 @@ We are part of the Faculty of Informatics and Data Science (FIDS) at the Univers
 {%
   include button.html
   type="email"
-  text="Email Sekretary's Office"
+  text="Email Secretary's Office"
   link="sekretariat.canzar@ur.de"
 %}
 {%
