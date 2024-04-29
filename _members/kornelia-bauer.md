@@ -1,6 +1,6 @@
 ---
 name: Kornelia Bauer
-image: images/picture.jpg
+image: images/team/kornelia.jpg
 description: Administrative Assistant
 ---
 
