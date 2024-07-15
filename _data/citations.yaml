@@ -332,7 +332,7 @@
   orcid: 0000-0003-4719-8010
   plugin: sources.py
   file: sources.yaml
-  image: ../images/pubs/box_smacof.png
+  image: ../images/publication.jpg
 - id: doi:10.1101/gr.267906.120
   title: Linear-time cluster ensembles of large-scale single-cell RNA-seq and multimodal
     data
