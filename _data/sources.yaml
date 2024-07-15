@@ -41,7 +41,7 @@
   image: ../images/pubs/McSplicer_v3_mod.jpg
   #title: 'McSplicer: a probabilistic model for estimating splice site usage from RNA-seq data'
 - id: doi:10.1101/2021.06.24.449725
-  image: ../images/pubs/box_smacof.png
+  image: ../images/publication.jpg
   #title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural Networks
 - id: doi:10.1101/gr.267906.120
   image: ../images/pubs/specter.jpg
