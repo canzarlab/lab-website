@@ -1,5 +1,137 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.07.31.605654
+  title: Complete sequencing of ape genomes
+  authors:
+  - DongAhn Yoo
+  - Arang Rhie
+  - Prajna Hebbar
+  - Francesca Antonacci
+  - Glennis A. Logsdon
+  - Steven J. Solar
+  - Dmitry Antipov
+  - Brandon D. Pickett
+  - Yana Safonova
+  - Francesco Montinaro
+  - Yanting Luo
+  - Joanna Malukiewicz
+  - Jessica M. Storer
+  - Jiadong Lin
+  - Abigail N. Sequeira
+  - Riley J. Mangan
+  - Glenn Hickey
+  - Graciela Monfort Anez
+  - Parithi Balachandran
+  - Anton Bankevich
+  - Christine R. Beck
+  - Arjun Biddanda
+  - Matthew Borchers
+  - Gerard G. Bouffard
+  - Emry Brannan
+  - Shelise Y. Brooks
+  - Lucia Carbone
+  - Laura Carrel
+  - Agnes P. Chan
+  - Juyun Crawford
+  - Mark Diekhans
+  - Eric Engelbrecht
+  - Cedric Feschotte
+  - Giulio Formenti
+  - Gage H. Garcia
+  - Luciana de Gennaro
+  - David Gilbert
+  - Richard E. Green
+  - Andrea Guarracino
+  - Ishaan Gupta
+  - Diana Haddad
+  - Junmin Han
+  - Robert S. Harris
+  - Gabrielle A. Hartley
+  - William T. Harvey
+  - Michael Hiller
+  - Kendra Hoekzema
+  - Marlys L. Houck
+  - Hyeonsoo Jeong
+  - Kaivan Kamali
+  - Manolis Kellis
+  - Bryce Kille
+  - Chul Lee
+  - Youngho Lee
+  - William Lees
+  - Alexandra P. Lewis
+  - Qiuhui Li
+  - Mark Loftus
+  - Yong Hwee Eddie Loh
+  - Hailey Loucks
+  - Jian Ma
+  - Yafei Mao
+  - Juan F. I. Martinez
+  - Patrick Masterson
+  - Rajiv C. McCoy
+  - Barbara McGrath
+  - Sean McKinney
+  - Britta S. Meyer
+  - Karen H. Miga
+  - Saswat K. Mohanty
+  - Katherine M. Munson
+  - Karol Pal
+  - Matt Pennell
+  - Pavel A. Pevzner
+  - David Porubsky
+  - Tamara Potapova
+  - Francisca R. Ringeling
+  - Joana L. Rocha
+  - Oliver A. Ryder
+  - Samuel Sacco
+  - Swati Saha
+  - Takayo Sasaki
+  - Michael C. Schatz
+  - Nicholas J. Schork
+  - Cole Shanks
+  - "Linn\xE9a Smeds"
+  - Dongmin R. Son
+  - Cynthia Steiner
+  - Alexander P. Sweeten
+  - Michael G. Tassia
+  - "Fran\xE7oise Thibaud-Nissen"
+  - "Edmundo Torres-Gonz\xE1lez"
+  - Mihir Trivedi
+  - Wenjie Wei
+  - Julie Wertz
+  - Muyu Yang
+  - Panpan Zhang
+  - Shilong Zhang
+  - Yang Zhang
+  - Zhenmiao Zhang
+  - Sarah A. Zhao
+  - Yixin Zhu
+  - Erich D. Jarvis
+  - Jennifer L. Gerton
+  - "Iker Rivas-Gonz\xE1lez"
+  - Benedict Paten
+  - Zachary A. Szpiech
+  - Christian D. Huber
+  - Tobias L. Lenz
+  - Miriam K. Konkel
+  - Soojin V. Yi
+  - Stefan Canzar
+  - Corey T. Watson
+  - Peter H. Sudmant
+  - Erin Molloy
+  - Erik Garrison
+  - Craig B. Lowe
+  - Mario Ventura
+  - "Rachel J. O\u2019Neill"
+  - Sergey Koren
+  - Kateryna D. Makova
+  - Adam M. Phillippy
+  - Evan E. Eichler
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-31'
+  link: https://doi.org/gt6xph
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13015-024-00265-3
   title: Metric multidimensional scaling for large single-cell datasets using neural
     networks
@@ -688,7 +820,7 @@
   authors:
   - Sandro Andreotti
   - Stefan Canzar
-  publisher: Epitranscriptomics
+  publisher: Methods in Molecular Biology
   date: '2018-12-12'
   link: https://doi.org/gtjbgj
   orcid: 0000-0003-4719-8010
