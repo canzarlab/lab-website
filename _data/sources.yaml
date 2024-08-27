@@ -1,5 +1,5 @@
 - id: doi:10.1101/2024.07.31.605654
-  image: ./images/publication.jpg
+  image: ./images/apes_mc.jpg
 - id: doi:10.1186/s13015-024-00265-3
   image: ../images/pubs/box_smacof.png
   #title: Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural Networks
