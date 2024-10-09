@@ -88,13 +88,13 @@
   - Michael C. Schatz
   - Nicholas J. Schork
   - Cole Shanks
-  - "Linn\xE9a Smeds"
+  - Linnea Smeds
   - Dongmin R. Son
   - Cynthia Steiner
   - Alexander P. Sweeten
   - Michael G. Tassia
-  - "Fran\xE7oise Thibaud-Nissen"
-  - "Edmundo Torres-Gonz\xE1lez"
+  - Francoise Thibaud-Nissen
+  - Edmundo Torres-Gonzalez
   - Mihir Trivedi
   - Wenjie Wei
   - Julie Wertz
@@ -107,7 +107,7 @@
   - Yixin Zhu
   - Erich D. Jarvis
   - Jennifer L. Gerton
-  - "Iker Rivas-Gonz\xE1lez"
+  - Iker Rivas-Gonzalez
   - Benedict Paten
   - Zachary A. Szpiech
   - Christian D. Huber
@@ -121,7 +121,7 @@
   - Erik Garrison
   - Craig B. Lowe
   - Mario Ventura
-  - "Rachel J. O\u2019Neill"
+  - Rachel J. O'Neill
   - Sergey Koren
   - Kateryna D. Makova
   - Adam M. Phillippy
@@ -150,6 +150,24 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/pubs/box_smacof.png
+- id: doi:10.1101/gr.278662.123
+  title: Combinatorial microRNA activity is essential for the transition of pluripotent
+    cells from proliferation into dormancy
+  authors:
+  - Dhanur P. Iyer
+  - Lambert Moyon
+  - Lars Wittler
+  - Chieh-Yu Cheng
+  - Francisca R. Ringeling
+  - Stefan Canzar
+  - Annalisa Marsico
+  - "Aydan Bulut-Karslio\u011Flu"
+  publisher: Genome Research
+  date: '2024-05-06'
+  link: https://doi.org/g7rj8x
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.04.02.587783
   title: Transcript Isoform Diversity of Y Chromosome Ampliconic Genes of Great Apes
     Uncovered Using Long Reads and Telomere-to-Telomere Reference Genome Assemblies
