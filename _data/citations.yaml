@@ -1,5 +1,89 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/gr.280637.125
+  title: Optimal marker genes for <i>c</i>-separated cell types with SepSolve
+  authors:
+  - Bartol Borozan
+  - Tomislav Prusina
+  - Luka Borozan
+  - Domagoj Severdija
+  - Francisca Rojas Ringeling
+  - Domagoj Matijevic
+  - Stefan Canzar
+  publisher: Genome Research
+  date: '2025-10-09'
+  link: https://doi.org/g97pxc
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.04.655742
+  title: Coreset-based logistic regression for atlas-scale cell type annotation
+  authors:
+  - Danrong Li
+  - Young Kun Ko
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-06'
+  link: https://doi.org/g97pxd
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-6523497/v1
+  title: 'UMIche: A UMI-centric analysis platform for enhancing molecular quantification
+    accuracy in bulk and single-cell sequencing'
+  authors:
+  - Jianfeng Sun
+  - Shuang Li
+  - Stefan Canzar
+  - Adam P. Cribbs
+  publisher: Springer Science and Business Media LLC
+  date: '2025-05-02'
+  link: https://doi.org/g97pxf
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.15.643072
+  title: 'UMIche: A platform for robust UMI-centric simulation and analysis in bulk
+    and single-cell sequencing'
+  authors:
+  - Jianfeng Sun
+  - Shuang Li
+  - Stefan Canzar
+  - Adam P. Cribbs
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-16'
+  link: https://doi.org/g97pxg
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.15.643033
+  title: 'mclUMI: Markov clustering of unique molecular identifiers enables dynamic
+    removal of PCR duplicates'
+  authors:
+  - Jianfeng Sun
+  - Shuang Li
+  - Stefan Canzar
+  - Adam P. Cribbs
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-16'
+  link: https://doi.org/g97pxh
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.02.12.637849
+  title: Optimal marker genes for <i>c</i>-separated cell types
+  authors:
+  - Bartol Borozan
+  - Luka Borozan
+  - "Domagoj \u0160everdija"
+  - "Domagoj Matijevi\u0107"
+  - Stefan Canzar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-17'
+  link: https://doi.org/g97pxj
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.07.31.605654
   title: Complete sequencing of ape genomes
   authors:
@@ -88,13 +172,13 @@
   - Michael C. Schatz
   - Nicholas J. Schork
   - Cole Shanks
-  - Linnea Smeds
+  - "Linn\xE9a Smeds"
   - Dongmin R. Son
   - Cynthia Steiner
   - Alexander P. Sweeten
   - Michael G. Tassia
-  - Francoise Thibaud-Nissen
-  - Edmundo Torres-Gonzalez
+  - "Fran\xE7oise Thibaud-Nissen"
+  - "Edmundo Torres-Gonz\xE1lez"
   - Mihir Trivedi
   - Wenjie Wei
   - Julie Wertz
@@ -107,7 +191,7 @@
   - Yixin Zhu
   - Erich D. Jarvis
   - Jennifer L. Gerton
-  - Iker Rivas-Gonzalez
+  - "Iker Rivas-Gonz\xE1lez"
   - Benedict Paten
   - Zachary A. Szpiech
   - Christian D. Huber
@@ -121,7 +205,7 @@
   - Erik Garrison
   - Craig B. Lowe
   - Mario Ventura
-  - Rachel J. O'Neill
+  - "Rachel J. O\u2019Neill"
   - Sergey Koren
   - Kateryna D. Makova
   - Adam M. Phillippy
