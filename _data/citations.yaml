@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.12.11.693725
+  title: 'CAMP: Coreset Accelerated Metacell Partitioning enables scalable analysis
+    of single-cell data'
+  authors:
+  - Danrong Li
+  - Young Kun Ko
+  - Stefan Canzar
+  publisher: openRxiv
+  date: '2025-12-15'
+  link: https://doi.org/hbggv9
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/gr.280637.125
   title: "Optimal marker genes for\n                    <i>c</i>\n               \
     \     -separated cell types with SepSolve"
@@ -23,7 +36,7 @@
   - Danrong Li
   - Young Kun Ko
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-06'
   link: https://doi.org/g97pxd
   orcid: 0000-0003-4719-8010
@@ -51,7 +64,7 @@
   - Shuang Li
   - Stefan Canzar
   - Adam P. Cribbs
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-16'
   link: https://doi.org/g97pxg
   orcid: 0000-0003-4719-8010
@@ -65,21 +78,22 @@
   - Shuang Li
   - Stefan Canzar
   - Adam P. Cribbs
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-16'
   link: https://doi.org/g97pxh
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.02.12.637849
-  title: Optimal marker genes for <i>c</i>-separated cell types
+  title: "Optimal marker genes for\n                  <i>c</i>\n                 \
+    \ -separated cell types"
   authors:
   - Bartol Borozan
   - Luka Borozan
   - "Domagoj \u0160everdija"
   - "Domagoj Matijevi\u0107"
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-02-17'
   link: https://doi.org/g97pxj
   orcid: 0000-0003-4719-8010
@@ -211,7 +225,7 @@
   - Kateryna D. Makova
   - Adam M. Phillippy
   - Evan E. Eichler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-31'
   link: https://doi.org/gt6xph
   orcid: 0000-0003-4719-8010
@@ -262,7 +276,7 @@
   - Juan Francisco Iturralde Martinez
   - Stefan Canzar
   - Kateryna D. Makova
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-03'
   link: https://doi.org/gtp93t
   orcid: 0000-0003-4719-8010
@@ -320,7 +334,7 @@
   - Stefan Canzar
   - Annalisa Marsico
   - Aydan Bulut-Karslioglu
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-12-21'
   link: https://doi.org/gtht39
   orcid: 0000-0003-4719-8010
@@ -529,7 +543,7 @@
   - Haris Amedi
   - Stefan Canzar
   - Mario Halic
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-08-08'
   link: https://doi.org/gtht4c
   orcid: 0000-0003-4719-8010
@@ -562,7 +576,7 @@
   - "S\xF6ren Laue"
   - "Domagoj Matijevi\u0107"
   - Tomislav Prusina
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-25'
   link: https://doi.org/gtht4d
   orcid: 0000-0003-4719-8010
@@ -588,7 +602,7 @@
   authors:
   - Van Hoan Do
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-01-10'
   link: https://doi.org/gtht4g
   orcid: 0000-0003-4719-8010
@@ -647,7 +661,7 @@
   - Erika Klitzke-Feser
   - Heejung Shim
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-08-11'
   link: https://doi.org/gtht4h
   orcid: 0000-0003-4719-8010
@@ -688,7 +702,7 @@
   - Van Hoan Do
   - Francisca Rojas Ringeling
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-15'
   link: https://doi.org/gtht4j
   orcid: 0000-0003-4719-8010
@@ -770,7 +784,7 @@
   - Paolo Tieri
   - Tim Kacprowski
   - Markus List
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-02-03'
   link: https://doi.org/gkv8bb
   orcid: 0000-0003-4719-8010
@@ -1453,7 +1467,7 @@
   - Zheng Kuang
   - Jef D. Boeke
   - Stefan Canzar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-03-29'
   link: https://doi.org/gkvmr2
   orcid: 0000-0003-4719-8010
