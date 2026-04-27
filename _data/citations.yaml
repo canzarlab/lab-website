@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.03.28.715026
+  title: 'GraphBG: Fast Bayesian Domain Detection via Spectral Graph Convolutions
+    for Multi-slice and Multi-modal Spatial Transcriptomics'
+  authors:
+  - Van Hoan Do
+  - Thi Phuong Lan Tran
+  - Stefan Canzar
+  publisher: openRxiv
+  date: '2026-03-31'
+  link: https://doi.org/hbv4dm
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.11.693725
   title: 'CAMP: Coreset Accelerated Metacell Partitioning enables scalable analysis
     of single-cell data'
@@ -39,6 +52,138 @@
   publisher: openRxiv
   date: '2025-06-06'
   link: https://doi.org/g97pxd
+  orcid: 0000-0003-4719-8010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-025-08816-3
+  title: Complete sequencing of ape genomes
+  authors:
+  - DongAhn Yoo
+  - Arang Rhie
+  - Prajna Hebbar
+  - Francesca Antonacci
+  - Glennis A. Logsdon
+  - Steven J. Solar
+  - Dmitry Antipov
+  - Brandon D. Pickett
+  - Yana Safonova
+  - Francesco Montinaro
+  - Yanting Luo
+  - Joanna Malukiewicz
+  - Jessica M. Storer
+  - Jiadong Lin
+  - Abigail N. Sequeira
+  - Riley J. Mangan
+  - Glenn Hickey
+  - Graciela Monfort Anez
+  - Parithi Balachandran
+  - Anton Bankevich
+  - Christine R. Beck
+  - Arjun Biddanda
+  - Matthew Borchers
+  - Gerard G. Bouffard
+  - Emry Brannan
+  - Shelise Y. Brooks
+  - Lucia Carbone
+  - Laura Carrel
+  - Agnes P. Chan
+  - Juyun Crawford
+  - Mark Diekhans
+  - Eric Engelbrecht
+  - Cedric Feschotte
+  - Giulio Formenti
+  - Gage H. Garcia
+  - Luciana de Gennaro
+  - David Gilbert
+  - Richard E. Green
+  - Andrea Guarracino
+  - Ishaan Gupta
+  - Diana Haddad
+  - Junmin Han
+  - Robert S. Harris
+  - Gabrielle A. Hartley
+  - William T. Harvey
+  - Michael Hiller
+  - Kendra Hoekzema
+  - Marlys L. Houck
+  - Hyeonsoo Jeong
+  - Kaivan Kamali
+  - Manolis Kellis
+  - Bryce Kille
+  - Chul Lee
+  - Youngho Lee
+  - William Lees
+  - Alexandra P. Lewis
+  - Qiuhui Li
+  - Mark Loftus
+  - Yong Hwee Eddie Loh
+  - Hailey Loucks
+  - Jian Ma
+  - Yafei Mao
+  - Juan F. I. Martinez
+  - Patrick Masterson
+  - Rajiv C. McCoy
+  - Barbara McGrath
+  - Sean McKinney
+  - Britta S. Meyer
+  - Karen H. Miga
+  - Saswat K. Mohanty
+  - Katherine M. Munson
+  - Karol Pal
+  - Matt Pennell
+  - Pavel A. Pevzner
+  - David Porubsky
+  - Tamara Potapova
+  - Francisca R. Ringeling
+  - Joana L. Rocha
+  - Oliver A. Ryder
+  - Samuel Sacco
+  - Swati Saha
+  - Takayo Sasaki
+  - Michael C. Schatz
+  - Nicholas J. Schork
+  - Cole Shanks
+  - "Linn\xE9a Smeds"
+  - Dongmin R. Son
+  - Cynthia Steiner
+  - Alexander P. Sweeten
+  - Michael G. Tassia
+  - "Fran\xE7oise Thibaud-Nissen"
+  - "Edmundo Torres-Gonz\xE1lez"
+  - Mihir Trivedi
+  - Wenjie Wei
+  - Julie Wertz
+  - Muyu Yang
+  - Panpan Zhang
+  - Shilong Zhang
+  - Yang Zhang
+  - Zhenmiao Zhang
+  - Sarah A. Zhao
+  - Yixin Zhu
+  - Erich D. Jarvis
+  - Jennifer L. Gerton
+  - "Iker Rivas-Gonz\xE1lez"
+  - Benedict Paten
+  - Zachary A. Szpiech
+  - Christian D. Huber
+  - Tobias L. Lenz
+  - Miriam K. Konkel
+  - Soojin V. Yi
+  - Stefan Canzar
+  - Corey T. Watson
+  - Peter H. Sudmant
+  - Erin Molloy
+  - Erik Garrison
+  - Craig B. Lowe
+  - Mario Ventura
+  - "Rachel J. O\u2019Neill"
+  - Sergey Koren
+  - Kateryna D. Makova
+  - Adam M. Phillippy
+  - Evan E. Eichler
+  publisher: Nature
+  date: '2025-04-09'
+  link: https://doi.org/g9dxz3
   orcid: 0000-0003-4719-8010
   plugin: orcid.py
   file: orcid.yaml
@@ -268,12 +413,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.04.02.587783
-  title: Transcript Isoform Diversity of Y Chromosome Ampliconic Genes of Great Apes
-    Uncovered Using Long Reads and Telomere-to-Telomere Reference Genome Assemblies
+  title: How and why ampliconic genes survive on the human Y chromosome
   authors:
+  - Karol Pal
   - Aleksandra Greshnova
-  - "Karol P\xE1l"
-  - Juan Francisco Iturralde Martinez
+  - Sukhwan Park
+  - Byung June Ko
+  - Hana Palova
+  - Martin Steinegger
+  - Sergei L. Kosakovsky Pond
   - Stefan Canzar
   - Kateryna D. Makova
   publisher: openRxiv
